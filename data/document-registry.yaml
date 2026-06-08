@@ -811,7 +811,7 @@ documents:
   n_pages: null
 - id: DOC-0040
   title: program-microcredenciales-2026-i-edicion-IA
-  category: otros
+  category: becas
   version: '1.0'
   status: Draft
   author: ''
@@ -819,30 +819,15 @@ documents:
   updated: '2026-06-08'
   supersedes: []
   superseded_by: ''
-  source_file: raw_data/scholarships/santander/program-microcredenciales-2026-i-edicion-IA.xlsx
+  source_file: raw_data/becas/santander/program-microcredenciales-2026-i-edicion-IA.xlsx
   source_sha256: 7a2819273232a920d15107094874a8758aaf0da213723868e5513eb1d8316e64
   family_id: fam-program-microcredenciales-i-edicion-ia
   canonical: false
-  tags: []
+  tags:
+  - ayudas-financieras
+  - becas
+  - santander
   content_path: content/doc-0040-program-microcredenciales-2026-i-edicion-ia.md
-  language: es
-  n_pages: null
-- id: DOC-0041
-  title: test-launchd-2
-  category: otros
-  version: '1.0'
-  status: Draft
-  author: ''
-  created: '2026-06-08'
-  updated: '2026-06-08'
-  supersedes: []
-  superseded_by: ''
-  source_file: raw_data/test-launchd-2.txt
-  source_sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
-  family_id: fam-test-launchd-2
-  canonical: false
-  tags: []
-  content_path: content/doc-0041-test-launchd-2.md
   language: es
   n_pages: null
 families:
@@ -991,10 +976,6 @@ families:
     members:
     - DOC-0040
     canonical: null
-  fam-test-launchd-2:
-    members:
-    - DOC-0041
-    canonical: null
 meta:
-  last_run: '2026-06-08T17:24:33.580937+00:00'
-  doc_count: 41
+  last_run: '2026-06-08T17:31:56.817382+00:00'
+  doc_count: 40

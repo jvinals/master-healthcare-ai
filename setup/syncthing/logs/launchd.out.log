@@ -1,0 +1,45 @@
+2026-06-08 19:17:31 watcher arrancando
+2026-06-08 19:17:31   REPO_ROOT      = /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/documentation
+2026-06-08 19:17:31   RAW_DIR        = /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data
+2026-06-08 19:17:31   DEBOUNCE_SECS  = 10
+2026-06-08 19:17:31   STABLE_SECS    = 20
+2026-06-08 19:17:31   PYTHON_BIN     = /opt/homebrew/bin/python3
+2026-06-08 19:19:13 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/test-launchd.txt
+2026-06-08 19:19:23 debounce satisfecho (10s sin eventos) — disparo ingestión
+2026-06-08 19:19:23   …todavía hay ficheros modificados en <20s, espero
+2026-06-08 19:19:43 → python scripts/ingest.py
+2026-06-08 19:19:43 ERROR: ingest.py falló (continúo de todas formas)
+2026-06-08 19:19:43 → python scripts/validate_registry.py
+2026-06-08 19:19:43 WARN: validate_registry.py marcó errores — revisar log
+2026-06-08 19:19:43 → python scripts/build_dashboard.py
+2026-06-08 19:19:43 WARN: build_dashboard.py falló
+2026-06-08 19:19:43 ingestión completada
+2026-06-08 19:19:48 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/test-launchd.txt
+2026-06-08 19:19:58 debounce satisfecho (10s sin eventos) — disparo ingestión
+2026-06-08 19:19:58 → python scripts/ingest.py
+2026-06-08 19:19:58 ERROR: ingest.py falló (continúo de todas formas)
+2026-06-08 19:19:58 → python scripts/validate_registry.py
+2026-06-08 19:19:58 WARN: validate_registry.py marcó errores — revisar log
+2026-06-08 19:19:58 → python scripts/build_dashboard.py
+2026-06-08 19:19:58 WARN: build_dashboard.py falló
+2026-06-08 19:19:58 ingestión completada
+2026-06-08 19:23:38 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/test-launchd-2.txt
+2026-06-08 19:23:48 debounce satisfecho (10s sin eventos) — disparo ingestión
+2026-06-08 19:23:48   …todavía hay ficheros modificados en <20s, espero
+2026-06-08 19:24:08 → python scripts/ingest.py
+2026-06-08 19:24:08 → python scripts/validate_registry.py
+2026-06-08 19:24:08 → python scripts/build_dashboard.py
+2026-06-08 19:24:08 ingestión completada
+2026-06-08 19:24:23 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/test-launchd-2.txt
+2026-06-08 19:24:33 debounce satisfecho (10s sin eventos) — disparo ingestión
+2026-06-08 19:24:33 → python scripts/ingest.py
+2026-06-08 19:24:33 → python scripts/validate_registry.py
+2026-06-08 19:24:33 → python scripts/build_dashboard.py
+2026-06-08 19:24:33 ingestión completada
+2026-06-08 19:31:46 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/scholarships
+2026-06-08 19:31:46 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/becas
+2026-06-08 19:31:56 debounce satisfecho (10s sin eventos) — disparo ingestión
+2026-06-08 19:31:56 → python scripts/ingest.py
+2026-06-08 19:31:56 → python scripts/validate_registry.py
+2026-06-08 19:31:56 → python scripts/build_dashboard.py
+2026-06-08 19:31:56 ingestión completada

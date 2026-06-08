@@ -1,6 +1,6 @@
 # Familias de versiones
 
-_Última generación: 2026-06-08T19:25:21_
+_Última generación: 2026-06-08T19:43:09_
 
 ## `fam-0-conv-2024-25-ene-asignatura-77620-grupo-1-orden-0`
 
@@ -210,12 +210,6 @@ _Última generación: 2026-06-08T19:25:21_
 | ID | Versión | Estado | Canónico | Actualizado | Title |
 |---|---|---|---|---|---|
 | DOC-0024 | 1.0 | Draft |  | 2026-06-08 | Template Clase de Telemedicina Ingeniería Informática Biomédica |
-
-## `fam-test-launchd-2`
-
-| ID | Versión | Estado | Canónico | Actualizado | Title |
-|---|---|---|---|---|---|
-| DOC-0041 | 1.0 | Draft |  | 2026-06-08 | test-launchd-2 |
 
 ## `fam-univerisity-class-guide-clinical-alerts`
 
