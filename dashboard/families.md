@@ -1,6 +1,6 @@
 # Familias de versiones
 
-_Última generación: 2026-06-08T11:33:25_
+_Última generación: 2026-06-08T19:25:21_
 
 ## `fam-0-conv-2024-25-ene-asignatura-77620-grupo-1-orden-0`
 
@@ -168,6 +168,12 @@ _Última generación: 2026-06-08T11:33:25_
 |---|---|---|---|---|---|
 | DOC-0036 | 1.0 | Draft |  | 2026-06-08 | modelo folleto postgrado revjv |
 
+## `fam-program-microcredenciales-i-edicion-ia`
+
+| ID | Versión | Estado | Canónico | Actualizado | Title |
+|---|---|---|---|---|---|
+| DOC-0040 | 1.0 | Draft |  | 2026-06-08 | program-microcredenciales-2026-i-edicion-IA |
+
 ## `fam-programa-curso-de-especialista-en-informatica-de-la-salud`
 
 | ID | Versión | Estado | Canónico | Actualizado | Title |
@@ -179,6 +185,18 @@ _Última generación: 2026-06-08T11:33:25_
 | ID | Versión | Estado | Canónico | Actualizado | Title |
 |---|---|---|---|---|---|
 | DOC-0021 | 1.0 | Draft |  | 2026-06-08 | Sensorización en Salud |
+
+## `fam-stignore`
+
+| ID | Versión | Estado | Canónico | Actualizado | Title |
+|---|---|---|---|---|---|
+| DOC-0039 | 1.0 | Draft |  | 2026-06-08 | .stignore |
+
+## `fam-syncthing-folder-99dcd9`
+
+| ID | Versión | Estado | Canónico | Actualizado | Title |
+|---|---|---|---|---|---|
+| DOC-0038 | 1.0 | Draft |  | 2026-06-08 | syncthing-folder-99dcd9 |
 
 ## `fam-temario-asignatura-telemedicina`
 
@@ -192,6 +210,12 @@ _Última generación: 2026-06-08T11:33:25_
 | ID | Versión | Estado | Canónico | Actualizado | Title |
 |---|---|---|---|---|---|
 | DOC-0024 | 1.0 | Draft |  | 2026-06-08 | Template Clase de Telemedicina Ingeniería Informática Biomédica |
+
+## `fam-test-launchd-2`
+
+| ID | Versión | Estado | Canónico | Actualizado | Title |
+|---|---|---|---|---|---|
+| DOC-0041 | 1.0 | Draft |  | 2026-06-08 | test-launchd-2 |
 
 ## `fam-univerisity-class-guide-clinical-alerts`
 

@@ -1,21 +1,21 @@
 # Dashboard
 
-_Última generación: 2026-06-08T11:33:25_
+_Última generación: 2026-06-08T19:25:21_
 
 ## Resumen
 
 | Métrica | Valor |
 |---|---|
-| Documentos registrados | 37 |
+| Documentos registrados | 41 |
 | Documentos canónicos | 1 |
-| Familias de versiones | 32 |
+| Familias de versiones | 36 |
 | Familias con varias versiones | 4 |
 
 ## Por estado
 
 | Estado | Documentos |
 |---|---|
-| Draft | 36 |
+| Draft | 40 |
 | Published | 1 |
 
 ## Por categoría
@@ -24,6 +24,7 @@ _Última generación: 2026-06-08T11:33:25_
 |---|---|
 | asignatura-telemedicina | 20 |
 | curso-especialista-informatica-salud | 7 |
+| otros | 4 |
 | propuestas-academicas | 3 |
 | administracion-convenios | 3 |
 | micromodulo-ia-salud | 2 |
@@ -34,7 +35,7 @@ _Última generación: 2026-06-08T11:33:25_
 
 | Idioma | Documentos |
 |---|---|
-| es | 37 |
+| es | 41 |
 
 ## Familias con múltiples versiones
 

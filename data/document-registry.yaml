@@ -773,6 +773,78 @@ documents:
   content_path: content/doc-0037-programa-curso-de-especialista-en-informatica-de-la-salud.md
   language: es
   n_pages: 9
+- id: DOC-0038
+  title: syncthing-folder-99dcd9
+  category: otros
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/.stfolder/syncthing-folder-99dcd9.txt
+  source_sha256: ee2f25f218599fffa215cf06a903c100b97e1ae0058f8b83900ffbbe8f491ab7
+  family_id: fam-syncthing-folder-99dcd9
+  canonical: false
+  tags: []
+  content_path: content/doc-0038-syncthing-folder-99dcd9.md
+  language: es
+  n_pages: null
+- id: DOC-0039
+  title: .stignore
+  category: otros
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/.stignore
+  source_sha256: c16dbd49e344ae5ad5b511d768dcce6764f7f15a7661ad60c71f1f010cd8172d
+  family_id: fam-stignore
+  canonical: false
+  tags: []
+  content_path: content/doc-0039-stignore.md
+  language: es
+  n_pages: null
+- id: DOC-0040
+  title: program-microcredenciales-2026-i-edicion-IA
+  category: otros
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/scholarships/santander/program-microcredenciales-2026-i-edicion-IA.xlsx
+  source_sha256: 7a2819273232a920d15107094874a8758aaf0da213723868e5513eb1d8316e64
+  family_id: fam-program-microcredenciales-i-edicion-ia
+  canonical: false
+  tags: []
+  content_path: content/doc-0040-program-microcredenciales-2026-i-edicion-ia.md
+  language: es
+  n_pages: null
+- id: DOC-0041
+  title: test-launchd-2
+  category: otros
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/test-launchd-2.txt
+  source_sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+  family_id: fam-test-launchd-2
+  canonical: false
+  tags: []
+  content_path: content/doc-0041-test-launchd-2.md
+  language: es
+  n_pages: null
 families:
   fam-anexo-i-propuesta-curso-de-especialista-en-informatica-de-la-salud:
     members:
@@ -907,6 +979,22 @@ families:
     members:
     - DOC-0037
     canonical: null
+  fam-syncthing-folder-99dcd9:
+    members:
+    - DOC-0038
+    canonical: null
+  fam-stignore:
+    members:
+    - DOC-0039
+    canonical: null
+  fam-program-microcredenciales-i-edicion-ia:
+    members:
+    - DOC-0040
+    canonical: null
+  fam-test-launchd-2:
+    members:
+    - DOC-0041
+    canonical: null
 meta:
-  last_run: '2026-06-08T11:27:36.920272+00:00'
-  doc_count: 37
+  last_run: '2026-06-08T17:24:33.580937+00:00'
+  doc_count: 41
