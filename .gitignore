@@ -1,0 +1,18 @@
+# Build artefacts
+website/site/
+website/docs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Ingestion logs (kept on disk for the latest run, but never committed)
+ingestion/run-*.log
+
+# Editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

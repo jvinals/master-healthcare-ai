@@ -1,0 +1,912 @@
+# Registro canónico de documentos. Generado por scripts/ingest.py.
+# La revisión humana decide canonical/status/family_id finales.
+
+documents:
+- id: DOC-0001
+  title: ANEXO I Propuesta Curso de Especialista en Informática de la Salud
+  category: curso-especialista-informatica-salud
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/ANEXO I Propuesta Curso de Especialista en Informática
+    de la Salud.docx
+  source_sha256: 12d384adec45e8e495685eaea1f27ec7a076961856653bfcacf072f26a235706
+  family_id: fam-anexo-i-propuesta-curso-de-especialista-en-informatica-de-la-salud
+  canonical: false
+  tags:
+  - especialista
+  - anexo-i
+  - salud
+  content_path: content/doc-0001-anexo-i-propuesta-curso-de-especialista-en-informatica-de-la-salud.md
+  language: es
+  n_pages: null
+- id: DOC-0002
+  title: ANEXO I Propuesta Nuevo Titulo
+  category: propuestas-academicas
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/ANEXO I Propuesta Nuevo Titulo.docx
+  source_sha256: 7ca39220d9ab701d7de93e2f3caf1b8f957df5466e8b8211b3e9c24f0bbfba8f
+  family_id: fam-anexo-i-propuesta-nuevo-titulo
+  canonical: false
+  tags:
+  - anexo-i
+  content_path: content/doc-0002-anexo-i-propuesta-nuevo-titulo.md
+  language: es
+  n_pages: null
+- id: DOC-0003
+  title: ANEXO III P&L Curso de Especialista en Informática de la Salud
+  category: curso-especialista-informatica-salud
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/ANEXO III P&L Curso de Especialista en Informática
+    de la Salud.xlsx
+  source_sha256: 53c57d337a458245c6734e3fad64aa2dc6e107102f248444fb2e5725320b3f75
+  family_id: fam-anexo-iii-p-l-curso-de-especialista-en-informatica-de-la-salud
+  canonical: false
+  tags:
+  - especialista
+  - anexo-i
+  - anexo-ii
+  - anexo-iii
+  - salud
+  content_path: content/doc-0003-anexo-iii-p-l-curso-de-especialista-en-informatica-de-la-salud.md
+  language: es
+  n_pages: null
+- id: DOC-0004
+  title: ANEXO III_Gerencia_Def
+  category: propuestas-academicas
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/ANEXO III_Gerencia_Def.xlsx
+  source_sha256: 59269a7c4a018687d8f39a6f6bba2a9ba9f58efc6d7a3b119c126c9a8b1e2e66
+  family_id: fam-anexo-iii-gerencia-def
+  canonical: false
+  tags:
+  - anexo-i
+  - anexo-ii
+  - anexo-iii
+  content_path: content/doc-0004-anexo-iii-gerencia-def.md
+  language: es
+  n_pages: null
+- id: DOC-0005
+  title: 20240928_Contrato_Mercantil_Francisco_Javier_
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/20240928_Contrato_Mercantil_Francisco_Javier_.pdf
+  source_sha256: c332dd3b64c7da887f44ba8fb1d0bd1e9cd472d1a121292255118f8dabb8c6a1
+  family_id: fam-20240928-contrato-mercantil-francisco-javier
+  canonical: false
+  tags:
+  - telemedicina
+  - contrato
+  content_path: content/doc-0005-20240928-contrato-mercantil-francisco-javier.md
+  language: es
+  n_pages: 2
+- id: DOC-0006
+  title: 0_conv._2024-25_ene__asignatura_77620_grupo_1_orden_0_
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Calificaciones/Actas/0_conv._2024-25_ene__asignatura_77620_grupo_1_orden_0_.pdf
+  source_sha256: 524b1ab41d339925a8c0c5f22697ab288cc5de3d0ddc999fe62a22787d2f779b
+  family_id: fam-0-conv-2024-25-ene-asignatura-77620-grupo-1-orden-0
+  canonical: false
+  tags:
+  - telemedicina
+  content_path: content/doc-0006-0-conv-2024-25-ene-asignatura-77620-grupo-1-orden-0.md
+  language: es
+  n_pages: 2
+- id: DOC-0007
+  title: 0_conv._2024-25_ene__asignatura_77620_grupo_1_orden_0_
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Calificaciones/Actas/signed/0_conv._2024-25_ene__asignatura_77620_grupo_1_orden_0_.pdf
+  source_sha256: 0870f1e05a25ffd4871f491142d6bb00f2e8c3ca63362e27f3c828c8ac40bd79
+  family_id: fam-0-conv-2024-25-ene-asignatura-77620-grupo-1-orden-0
+  canonical: false
+  tags:
+  - telemedicina
+  content_path: content/doc-0007-0-conv-2024-25-ene-asignatura-77620-grupo-1-orden-0.md
+  language: es
+  n_pages: 2
+- id: DOC-0008
+  title: CÓMO CERRAR Y FIRMAR ACTAS
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Calificaciones/CÓMO CERRAR Y FIRMAR ACTAS.pdf
+  source_sha256: 73636c79558b92af8dde6a1d8adc03a533a95b3de4fa0f97b6ad27cbef9f83ac
+  family_id: fam-como-cerrar-y-firmar-actas
+  canonical: false
+  tags:
+  - telemedicina
+  content_path: content/doc-0008-como-cerrar-y-firmar-actas.md
+  language: es
+  n_pages: 11
+- id: DOC-0009
+  title: Examen Asignatura de Telemedicina
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Calificaciones/Examen Asignatura de Telemedicina.docx
+  source_sha256: 6bfb32553ed04bd3e19313c816d7bfb4b3ffd54f2b687128831051018a80df2d
+  family_id: fam-examen-asignatura-de-telemedicina
+  canonical: false
+  tags:
+  - telemedicina
+  content_path: content/doc-0009-examen-asignatura-de-telemedicina.md
+  language: es
+  n_pages: null
+- id: DOC-0010
+  title: Manual del Profesor UCJC curso 24_25
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Calificaciones/Manual del Profesor UCJC curso 24_25.pptx
+  source_sha256: e17315e9beb81e8f07ec7d16f6577448c8517c57354f589f4e8a9e2e3c6bcef8
+  family_id: fam-manual-del-profesor-ucjc-curso-24-25
+  canonical: false
+  tags:
+  - telemedicina
+  content_path: content/doc-0010-manual-del-profesor-ucjc-curso-24-25.md
+  language: es
+  n_pages: 52
+- id: DOC-0011
+  title: Copy of Clinical Alerts - 2024 - UCJC
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Copy of Clinical Alerts - 2024 - UCJC.pptx
+  source_sha256: 08fab1da6cb932b15412eb5d8845991c36b6d17b823c3abd93a4d4f48da7f678
+  family_id: fam-clinical-alerts-ucjc
+  canonical: false
+  tags:
+  - telemedicina
+  content_path: content/doc-0011-copy-of-clinical-alerts-2024-ucjc.md
+  language: es
+  n_pages: 18
+- id: DOC-0012
+  title: Copy of Univerisity Class - Guide - Clinical Alerts - 2024
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Copy of Univerisity Class - Guide - Clinical Alerts - 2024.docx
+  source_sha256: 6d090f07218eb71213748263966e0bb9c7ed9193c10c3530f9421f23a125609b
+  family_id: fam-univerisity-class-guide-clinical-alerts
+  canonical: false
+  tags:
+  - telemedicina
+  content_path: content/doc-0012-copy-of-univerisity-class-guide-clinical-alerts-2024.md
+  language: es
+  n_pages: null
+- id: DOC-0013
+  title: Factura JV 1 Asignatura de Telemedicina
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Financiero/Factura JV 1 Asignatura de Telemedicina.docx
+  source_sha256: d0b01bbde1f4f7e143d87e6ed8f7bf00c20854336b21b46d1a048ccbff7aaa20
+  family_id: fam-factura-1-asignatura-de-telemedicina
+  canonical: false
+  tags:
+  - telemedicina
+  - financiero
+  content_path: content/doc-0013-factura-jv-1-asignatura-de-telemedicina.md
+  language: es
+  n_pages: null
+- id: DOC-0014
+  title: Factura JV 1 Asignatura de Telemedicina.docx
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Financiero/Factura JV 1 Asignatura de Telemedicina.docx.pdf
+  source_sha256: 59140f6b8cad82d4642e094754e2b89464ab73e81f6306933a2621f3a8e4b5d7
+  family_id: fam-factura-1-asignatura-de-telemedicina-docx
+  canonical: false
+  tags:
+  - telemedicina
+  - financiero
+  content_path: content/doc-0014-factura-jv-1-asignatura-de-telemedicina-docx.md
+  language: es
+  n_pages: 2
+- id: DOC-0015
+  title: Factura JV 2 Asignatura de Telemedicina
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Financiero/Factura JV 2 Asignatura de Telemedicina.docx
+  source_sha256: 154c3b0ff076ce4d30546f27da4074aee63cf2924e757f80111194567970b039
+  family_id: fam-factura-2-asignatura-de-telemedicina
+  canonical: false
+  tags:
+  - telemedicina
+  - financiero
+  content_path: content/doc-0015-factura-jv-2-asignatura-de-telemedicina.md
+  language: es
+  n_pages: null
+- id: DOC-0016
+  title: Factura JV 2 Asignatura de Telemedicina.docx
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Financiero/Factura JV 2 Asignatura de Telemedicina.docx.pdf
+  source_sha256: aba168a61fde8106fba23517c4cc2530ae6cf27704d85a739b3abbf94de86611
+  family_id: fam-factura-2-asignatura-de-telemedicina-docx
+  canonical: false
+  tags:
+  - telemedicina
+  - financiero
+  content_path: content/doc-0016-factura-jv-2-asignatura-de-telemedicina-docx.md
+  language: es
+  n_pages: 2
+- id: DOC-0017
+  title: Modelo Factura UCJC
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Financiero/Modelo Factura UCJC.docx
+  source_sha256: 3fcb0ffe2a8a8182d36af3e0e702527a16a9a2b60165917c1937afee3e48d9b6
+  family_id: fam-modelo-factura-ucjc
+  canonical: false
+  tags:
+  - telemedicina
+  - financiero
+  content_path: content/doc-0017-modelo-factura-ucjc.md
+  language: es
+  n_pages: null
+- id: DOC-0018
+  title: Guión para 4 Prácticas de Alumnos en la Asignatura de Telemedicina en Caser
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Guión para 4 Prácticas de Alumnos en la Asignatura de Telemedicina en Caser.docx
+  source_sha256: 22d942eeccedbc61c18465f30afee52a810047784067031002ace08cd2dfaa78
+  family_id: fam-guion-para-4-practicas-de-alumnos-en-la-asignatura-de-telemedicina-en-caser
+  canonical: false
+  tags:
+  - telemedicina
+  content_path: content/doc-0018-guion-para-4-practicas-de-alumnos-en-la-asignatura-de-telemedicina-en-c.md
+  language: es
+  n_pages: null
+- id: DOC-0019
+  title: Introducción a la Telemedicina y Fundamentos de Redes
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Introducción a la Telemedicina y Fundamentos de Redes.pptx
+  source_sha256: c5e2a076bb2ee8e90b41d20e330acbb1f526df6fe9c46129a824a60274f1c14b
+  family_id: fam-introduccion-a-la-telemedicina-y-fundamentos-de-redes
+  canonical: false
+  tags:
+  - telemedicina
+  content_path: content/doc-0019-introduccion-a-la-telemedicina-y-fundamentos-de-redes.md
+  language: es
+  n_pages: 18
+- id: DOC-0020
+  title: Modelo Factura UCJC
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Modelo Factura UCJC.doc
+  source_sha256: aded5fd65d9338152c2f5f36fda1cd6ac16d735c231617a51ccc6d93fec259ce
+  family_id: fam-modelo-factura-ucjc
+  canonical: false
+  tags:
+  - telemedicina
+  - financiero
+  content_path: content/doc-0020-modelo-factura-ucjc.md
+  language: es
+  n_pages: null
+- id: DOC-0021
+  title: Sensorización en Salud
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Sensorización en Salud.pptx
+  source_sha256: b94a2561aac156184e2b63bd9263dc91a05b07bd8ce8f560398e3497d560cf98
+  family_id: fam-sensorizacion-en-salud
+  canonical: false
+  tags:
+  - telemedicina
+  - salud
+  content_path: content/doc-0021-sensorizacion-en-salud.md
+  language: es
+  n_pages: 20
+- id: DOC-0022
+  title: Temario Asignatura Telemedicina
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Temas /Temario Asignatura Telemedicina.docx
+  source_sha256: f56e8f67b7adde8ae8dbdc936a0961d17a413a2540714f576f67ff4b499dba33
+  family_id: fam-temario-asignatura-telemedicina
+  canonical: false
+  tags:
+  - telemedicina
+  content_path: content/doc-0022-temario-asignatura-telemedicina.md
+  language: es
+  n_pages: null
+- id: DOC-0023
+  title: Temario Asignatura Telemedicina
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Temas /Temario Asignatura Telemedicina.pdf
+  source_sha256: 2609c20f89329662c141c6b02b4ce87948e7c4d434bdfc2b3f2aedb8dec5fffc
+  family_id: fam-temario-asignatura-telemedicina
+  canonical: false
+  tags:
+  - telemedicina
+  content_path: content/doc-0023-temario-asignatura-telemedicina.md
+  language: es
+  n_pages: 102
+- id: DOC-0024
+  title: Template Clase de Telemedicina Ingeniería Informática Biomédica
+  category: asignatura-telemedicina
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática
+    Biomédica/Template Clase de Telemedicina Ingeniería Informática Biomédica.pptx
+  source_sha256: 69675387c5303ca2c182eb58fb6f67c1f57944aa82f6182899c0de82272dc240
+  family_id: fam-template-clase-de-telemedicina-ingenieria-informatica-biomedica
+  canonical: false
+  tags:
+  - telemedicina
+  content_path: content/doc-0024-template-clase-de-telemedicina-ingenieria-informatica-biomedica.md
+  language: es
+  n_pages: 18
+- id: DOC-0025
+  title: Convenio EDGE  HEALTH, S.R.L_
+  category: administracion-convenios
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Convenio EDGE  HEALTH, S.R.L_.docx
+  source_sha256: dbe5d8baefbcfd68aaac06174ddf503de9926111c4c01489436c0b037f4278b5
+  family_id: fam-convenio-edge-health-s-r-l
+  canonical: false
+  tags:
+  - convenio
+  - edgehealth
+  content_path: content/doc-0025-convenio-edge-health-s-r-l.md
+  language: es
+  n_pages: null
+- id: DOC-0026
+  title: Convenio EdgeHealth UCJC (firmado 2)
+  category: administracion-convenios
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Convenio EdgeHealth UCJC (firmado 2).pdf
+  source_sha256: 8ee77c5ece3ea45682347e80e66e3d2345070367919c5cdc3707639be569caf4
+  family_id: fam-convenio-edgehealth-ucjc-2
+  canonical: false
+  tags:
+  - convenio
+  - edgehealth
+  content_path: content/doc-0026-convenio-edgehealth-ucjc-firmado-2.md
+  language: es
+  n_pages: 19
+- id: DOC-0027
+  title: Convenio EdgeHealth UCJC
+  category: administracion-convenios
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Convenio EdgeHealth UCJC.pdf
+  source_sha256: bc59fa1c9da70f79685ca131b58cc025acbc7c8d9cf54fd7052e99d576d85c08
+  family_id: fam-convenio-edgehealth-ucjc
+  canonical: false
+  tags:
+  - convenio
+  - edgehealth
+  content_path: content/doc-0027-convenio-edgehealth-ucjc.md
+  language: es
+  n_pages: 19
+- id: DOC-0028
+  title: ANEXO III P&L Curso de Especialista en Informática de la Salud rev JV_REV2
+  category: curso-especialista-informatica-salud
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Documentación Presentada/ANEXO III P&L Curso de Especialista
+    en Informática de la Salud rev JV_REV2.xlsx
+  source_sha256: 4fcf4eb0c7170ce8a625b70475a735c9643b4fed8349dd2a4671a056f172e67e
+  family_id: fam-anexo-iii-p-l-curso-de-especialista-en-informatica-de-la-salud
+  canonical: false
+  tags:
+  - especialista
+  - anexo-i
+  - anexo-ii
+  - anexo-iii
+  - salud
+  content_path: content/doc-0028-anexo-iii-p-l-curso-de-especialista-en-informatica-de-la-salud-rev-jv-r.md
+  language: es
+  n_pages: null
+- id: DOC-0029
+  title: CDA_ANEXO I Propuesta Curso de Especialista en Informática de la Salud_Jennifer
+  category: curso-especialista-informatica-salud
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Documentación Presentada/CDA_ANEXO I Propuesta Curso
+    de Especialista en Informática de la Salud_Jennifer .docx
+  source_sha256: a04878b002dc6acb11fde5bc6e0427fa10585228beb686ff8302564a07469594
+  family_id: fam-cda-anexo-i-propuesta-curso-de-especialista-en-informatica-de-la-salud-jennifer
+  canonical: false
+  tags:
+  - especialista
+  - anexo-i
+  - salud
+  content_path: content/doc-0029-cda-anexo-i-propuesta-curso-de-especialista-en-informatica-de-la-salud-.md
+  language: es
+  n_pages: null
+- id: DOC-0030
+  title: CDA_ANEXO II_Marketing
+  category: propuestas-academicas
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Documentación Presentada/CDA_ANEXO II_Marketing.docx
+  source_sha256: cd7488fbe81da6a855cb5b5a7bedf863f6181e1d0912ea5e66ccb3c5dc5c3b8c
+  family_id: fam-cda-anexo-ii-marketing
+  canonical: false
+  tags:
+  - anexo-i
+  - anexo-ii
+  - marketing
+  content_path: content/doc-0030-cda-anexo-ii-marketing.md
+  language: es
+  n_pages: null
+- id: DOC-0031
+  title: ANEXO I Propuesta Curso de Especialista en Informática de la Salud_Jennifer rev JV
+  category: curso-especialista-informatica-salud
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Enviado Dic 2023/ANEXO I Propuesta Curso de Especialista
+    en Informática de la Salud_Jennifer rev JV.docx
+  source_sha256: f4f8a8e4b57842ac1a468148c59985988a5beff411c8eeb41cdd45e9b8e6de08
+  family_id: fam-anexo-i-propuesta-curso-de-especialista-en-informatica-de-la-salud-jennifer
+  canonical: false
+  tags:
+  - especialista
+  - anexo-i
+  - salud
+  content_path: content/doc-0031-anexo-i-propuesta-curso-de-especialista-en-informatica-de-la-salud-jenn.md
+  language: es
+  n_pages: null
+- id: DOC-0032
+  title: ANEXO III P&L Curso de Especialista en Informática de la Salud rev JV
+  category: curso-especialista-informatica-salud
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Enviado Dic 2023/ANEXO III P&L Curso de Especialista
+    en Informática de la Salud rev JV.xlsx
+  source_sha256: 6fc32a4231c03beb5c69ec002c4571adb77f48a09d3360887165296d928c2156
+  family_id: fam-anexo-iii-p-l-curso-de-especialista-en-informatica-de-la-salud
+  canonical: false
+  tags:
+  - especialista
+  - anexo-i
+  - anexo-ii
+  - anexo-iii
+  - salud
+  content_path: content/doc-0032-anexo-iii-p-l-curso-de-especialista-en-informatica-de-la-salud-rev-jv.md
+  language: es
+  n_pages: null
+- id: DOC-0033
+  title: Ficha Profesor_CV Web UCJC (Javier Vinals)
+  category: faculty
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Ficha Profesor_CV Web UCJC (Javier Vinals).doc
+  source_sha256: e4030b88e7df9f86b14bcb82769f9bc865c4b6af60ab1c8631ec769399ac6d8f
+  family_id: fam-ficha-profesor-cv-web-ucjc-javier-vinals
+  canonical: false
+  tags:
+  - cv
+  content_path: content/doc-0033-ficha-profesor-cv-web-ucjc-javier-vinals.md
+  language: es
+  n_pages: null
+- id: DOC-0034
+  title: Esquema contenidos titulación web revjv
+  category: micromodulo-ia-salud
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Micromódulo en IA para la Salud/Esquema contenidos
+    titulación web revjv.docx
+  source_sha256: 140aa31ac2b206d75eec5e99be9bce646f63b10253aa143acd2e2cb59d290add
+  family_id: fam-esquema-contenidos-titulacion-web
+  canonical: false
+  tags:
+  - salud
+  content_path: content/doc-0034-esquema-contenidos-titulacion-web-revjv.md
+  language: es
+  n_pages: null
+- id: DOC-0035
+  title: Micromódulo de Formación Permanente en Inteligencia Artificial para la salud
+  category: micromodulo-ia-salud
+  version: '1.0'
+  status: Published
+  author: Vinals, Francisco Javier
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Micromódulo en IA para la Salud/Micromódulo de Formación
+    Permanente en Inteligencia Artificial para la salud.pdf
+  source_sha256: 232eb554c5b497f98310613762e2cc173d47ad6a7832bae4ad33d922953b8a37
+  family_id: fam-micromodulo-de-formacion-permanente-en-inteligencia-artificial-para-la-salud
+  canonical: true
+  tags:
+  - canonico
+  - ia
+  - micromodulo
+  - salud
+  content_path: content/doc-0035-micromodulo-de-formacion-permanente-en-inteligencia-artificial-para-la-.md
+  language: es
+  n_pages: 5
+- id: DOC-0036
+  title: modelo folleto postgrado revjv
+  category: marketing
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Micromódulo en IA para la Salud/modelo folleto postgrado
+    revjv.docx
+  source_sha256: 74f034740a1eaa768ac045e8ad3eb83fc2bff03dded7001326d2c0b904aa378b
+  family_id: fam-modelo-folleto-postgrado
+  canonical: false
+  tags:
+  - marketing
+  - salud
+  content_path: content/doc-0036-modelo-folleto-postgrado-revjv.md
+  language: es
+  n_pages: null
+- id: DOC-0037
+  title: Programa Curso de Especialista en Informática de la Salud
+  category: curso-especialista-informatica-salud
+  version: '1.0'
+  status: Draft
+  author: ''
+  created: '2026-06-08'
+  updated: '2026-06-08'
+  supersedes: []
+  superseded_by: ''
+  source_file: raw_data/master-training/Formación/Programa Curso de Especialista en Informática de la
+    Salud.pdf
+  source_sha256: 7b9331e31521967a4de2e10af7aa0a7eebd29bb040eae2e97bd031e378b5b73d
+  family_id: fam-programa-curso-de-especialista-en-informatica-de-la-salud
+  canonical: false
+  tags:
+  - especialista
+  - salud
+  content_path: content/doc-0037-programa-curso-de-especialista-en-informatica-de-la-salud.md
+  language: es
+  n_pages: 9
+families:
+  fam-anexo-i-propuesta-curso-de-especialista-en-informatica-de-la-salud:
+    members:
+    - DOC-0001
+    canonical: null
+  fam-anexo-i-propuesta-nuevo-titulo:
+    members:
+    - DOC-0002
+    canonical: null
+  fam-anexo-iii-p-l-curso-de-especialista-en-informatica-de-la-salud:
+    members:
+    - DOC-0003
+    - DOC-0028
+    - DOC-0032
+    canonical: null
+  fam-anexo-iii-gerencia-def:
+    members:
+    - DOC-0004
+    canonical: null
+  fam-20240928-contrato-mercantil-francisco-javier:
+    members:
+    - DOC-0005
+    canonical: null
+  fam-0-conv-2024-25-ene-asignatura-77620-grupo-1-orden-0:
+    members:
+    - DOC-0006
+    - DOC-0007
+    canonical: null
+  fam-como-cerrar-y-firmar-actas:
+    members:
+    - DOC-0008
+    canonical: null
+  fam-examen-asignatura-de-telemedicina:
+    members:
+    - DOC-0009
+    canonical: null
+  fam-manual-del-profesor-ucjc-curso-24-25:
+    members:
+    - DOC-0010
+    canonical: null
+  fam-clinical-alerts-ucjc:
+    members:
+    - DOC-0011
+    canonical: null
+  fam-univerisity-class-guide-clinical-alerts:
+    members:
+    - DOC-0012
+    canonical: null
+  fam-factura-1-asignatura-de-telemedicina:
+    members:
+    - DOC-0013
+    canonical: null
+  fam-factura-1-asignatura-de-telemedicina-docx:
+    members:
+    - DOC-0014
+    canonical: null
+  fam-factura-2-asignatura-de-telemedicina:
+    members:
+    - DOC-0015
+    canonical: null
+  fam-factura-2-asignatura-de-telemedicina-docx:
+    members:
+    - DOC-0016
+    canonical: null
+  fam-modelo-factura-ucjc:
+    members:
+    - DOC-0017
+    - DOC-0020
+    canonical: null
+  fam-guion-para-4-practicas-de-alumnos-en-la-asignatura-de-telemedicina-en-caser:
+    members:
+    - DOC-0018
+    canonical: null
+  fam-introduccion-a-la-telemedicina-y-fundamentos-de-redes:
+    members:
+    - DOC-0019
+    canonical: null
+  fam-sensorizacion-en-salud:
+    members:
+    - DOC-0021
+    canonical: null
+  fam-temario-asignatura-telemedicina:
+    members:
+    - DOC-0022
+    - DOC-0023
+    canonical: null
+  fam-template-clase-de-telemedicina-ingenieria-informatica-biomedica:
+    members:
+    - DOC-0024
+    canonical: null
+  fam-convenio-edge-health-s-r-l:
+    members:
+    - DOC-0025
+    canonical: null
+  fam-convenio-edgehealth-ucjc-2:
+    members:
+    - DOC-0026
+    canonical: null
+  fam-convenio-edgehealth-ucjc:
+    members:
+    - DOC-0027
+    canonical: null
+  fam-cda-anexo-i-propuesta-curso-de-especialista-en-informatica-de-la-salud-jennifer:
+    members:
+    - DOC-0029
+    canonical: null
+  fam-cda-anexo-ii-marketing:
+    members:
+    - DOC-0030
+    canonical: null
+  fam-anexo-i-propuesta-curso-de-especialista-en-informatica-de-la-salud-jennifer:
+    members:
+    - DOC-0031
+    canonical: null
+  fam-ficha-profesor-cv-web-ucjc-javier-vinals:
+    members:
+    - DOC-0033
+    canonical: null
+  fam-esquema-contenidos-titulacion-web:
+    members:
+    - DOC-0034
+    canonical: null
+  fam-micromodulo-de-formacion-permanente-en-inteligencia-artificial-para-la-salud:
+    members:
+    - DOC-0035
+    canonical: DOC-0035
+  fam-modelo-folleto-postgrado:
+    members:
+    - DOC-0036
+    canonical: null
+  fam-programa-curso-de-especialista-en-informatica-de-la-salud:
+    members:
+    - DOC-0037
+    canonical: null
+meta:
+  last_run: '2026-06-08T11:27:36.920272+00:00'
+  doc_count: 37

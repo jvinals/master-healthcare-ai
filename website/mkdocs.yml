@@ -1,0 +1,76 @@
+# MkDocs config — sitio público del Micromódulo en IA para la Salud.
+#
+# Antes de ejecutar mkdocs, lanza:
+#     python ../scripts/build_site.py            (build)
+#     python ../scripts/build_site.py --serve    (servidor local)
+#
+# Ese script pobla ``website/docs/`` con symlinks a los directorios
+# publicables del repositorio, y luego invoca MkDocs.
+
+site_name: "Micromódulo en IA para la Salud"
+site_description: "Memoria institucional del Micromódulo de Formación Permanente en IA para la Salud — UCJC / CUHMED."
+site_author: "CUHMED — UCJC"
+site_url: ""
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro
+
+plugins:
+  - search:
+      lang: es
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Inicio: index.md
+  - Gobernanza:
+      - Reglas y contribución: contribuir.md
+      - Roadmap: roadmap.md
+  - Programa:
+      - Visión general: curriculum/vision-general.md
+      - Estructura modular: curriculum/estructura-modular.md
+  - Dashboard:
+      - Métricas: dashboard/README.md
+      - Familias de versiones: dashboard/families.md

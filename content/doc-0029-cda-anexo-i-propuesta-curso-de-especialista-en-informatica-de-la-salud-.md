@@ -1,0 +1,490 @@
+---
+id: DOC-0029
+title: CDA_ANEXO I Propuesta Curso de Especialista en Informática de la Salud_Jennifer
+version: '1.0'
+status: Draft
+authors: []
+created: '2026-06-08'
+updated: '2026-06-08'
+tags:
+- especialista
+- anexo-i
+- salud
+related: []
+source: raw_data/master-training/Formación/Documentación Presentada/CDA_ANEXO I Propuesta Curso de Especialista
+  en Informática de la Salud_Jennifer .docx
+source_sha256: a04878b002dc6acb11fde5bc6e0427fa10585228beb686ff8302564a07469594
+canonical: false
+family_id: fam-cda-anexo-i-propuesta-curso-de-especialista-en-informatica-de-la-salud-jennifer
+supersedes: []
+superseded_by: ''
+language: es
+category: curso-especialista-informatica-salud
+n_pages: null
+---
+
+# CDA_ANEXO I Propuesta Curso de Especialista en Informática de la Salud_Jennifer
+
+> Generado automáticamente desde `raw_data/master-training/Formación/Documentación Presentada/CDA_ANEXO I Propuesta Curso de Especialista en Informática de la Salud_Jennifer .docx` por `scripts/ingest.py`. Revisar metadatos en el frontmatter y en `data/document-registry.yaml`.
+
+ANEXO I
+
+SOLICITUD DE TÍTULO. –
+Curso de Especialista en Inteligencia Artificial en la Salud
+
+
+DATOS BÁSICOS DEL PROGRAMA PROPUESTO
+
+ESPECIALISTA EN INTELIGENCIA ARTIFICIAL EN LA SALUD
+Tipo de título: Propio.
+Duración/ECTS:  6 ECTS.
+Modalidad de impartición: ONLINE.
+Sede: Virtual.
+Idioma: Español e Inglés.
+
+
+
+VALOR DIFERENCIAL DE LA PROPUESTA EN EL PANORAMA UNIVERSITARIO MADRILEÑO, NACIONAL E INTERNACIONAL.
+
+Introducción al Estado Actual del Mercado
+
+La Informática de la Salud es una disciplina que se ocupa del desarrollo, aplicación y gestión de tecnologías de la información y la comunicación (TIC) en el sector sanitario. En los últimos años, la digitalización ha cobrado una importancia creciente en el ámbito sanitario, dando lugar a la aparición de nuevos retos y oportunidades.
+La importancia de la digitalización en el sector sanitario se puede apreciar en los siguientes aspectos:
+Mejora de la calidad asistencial: Las TIC permiten la recopilación, almacenamiento y análisis de datos médicos de forma más eficiente, lo que puede ayudar a mejorar la atención al paciente.
+Incremento de la eficiencia: La automatización de procesos mediante las TIC puede ayudar a reducir costes y mejorar la productividad.
+Mejora de la seguridad: Las TIC pueden ayudar a proteger la información médica y los sistemas sanitarios de ciberataques.
+
+
+Análisis Comparativo de Programas Similares
+
+Análisis Comparativo
+
+
+
+Los programas mencionados anteriormente comparten las siguientes características:
+
+Duración: 6 meses o 5 meses
+Horas totales: 150 horas o 125 horas
+Créditos ECTS: 6 créditos ECTS o 5 créditos ECTS
+
+En cuanto a los contenidos, los programas se centran en el desarrollo de competencias en diferentes áreas de la Informática de la Salud, incluyendo temas como:
+
+Inteligencia artificial en la salud
+Seguridad informática sanitaria
+Gestión de sistemas de información sanitarios
+
+Los programas se imparten en modalidad online o semipresencial, con un enfoque práctico y orientado a la empleabilidad.
+
+
+
+
+Diferencias entre los Programas
+
+A pesar de las similitudes, existen algunas diferencias entre los programas que pueden ser relevantes para los estudiantes a la hora de elegir uno u otro.
+
+Los programas se imparten por diferentes universidades, con diferentes trayectorias y reconocimientos.
+
+La Formación Continuada en Realidad Virtual y Aplicaciones Sanitarias ofrecida por la Fundación Tecnologías Sanitarias es un curso corto que se centra en el uso de la realidad virtual en la asistencia sanitaria. El curso cubre temas como la historia de la realidad virtual, los diferentes tipos de realidad virtual y las aplicaciones de la realidad virtual en la asistencia sanitaria.
+
+El Curso de Iniciación a la Inteligencia Artificial en Salud ofrecido por la Asociación Española de Bioinformática y Biología Computacional (SEBIOT) es otro curso corto que brinda una introducción a la inteligencia artificial en la salud. El curso cubre temas como los conceptos básicos de inteligencia artificial, las aplicaciones de la inteligencia artificial en la salud y las implicaciones éticas de la inteligencia artificial en la salud.
+
+El Taller de Innovación Tecnológica en el Sistema Sanitario Español ofrecido por la Escuela Nacional de Sanidad, Ministerio de Sanidad, Servicios Sociales e Igualdad es un curso corto que brinda una visión general de las últimas innovaciones tecnológicas en el sistema sanitario español. El curso cubre temas como Big Data, inteligencia artificial, telemedicina y eSalud.
+
+El Curso Interuniversitario de Big Data y Salud ofrecido por la Universidad de Córdoba, Universidad de Granada, Universidad de Jaén es un curso largo que brinda una descripción general completa de Big Data y sus aplicaciones en la salud. El curso cubre temas como los conceptos básicos de Big Data, minería de datos, aprendizaje automático, inteligencia artificial y ética de datos de salud.
+
+El Máster en Big Data y Gestión de la Información Sanitaria ofrecido por IEBS Digital School es un máster que brinda una educación más profunda en Big Data y sus aplicaciones en la salud. El máster cubre temas como análisis de Big Data, visualización de datos y gestión de datos de salud.
+
+Los programas mencionados anteriormente son una buena opción para los estudiantes que quieran adquirir una formación especializada en diferentes áreas de la Informática de la Salud. Los programas ofrecen una formación práctica y orientada a la empleabilidad, que puede ser de gran utilidad para los profesionales que quieran trabajar en el sector sanitario.
+
+La elección de un programa u otro dependerá de las preferencias y necesidades específicas de cada estudiante. Los estudiantes deben considerar factores como la trayectoria y reconocimiento de la universidad, el enfoque de los contenidos, y el precio, a la hora de tomar una decisión.
+
+Demanda de Especialistas en Informática de la Salud
+
+Según datos del Ministerio de Educación, en el curso 2022-2023 se ofertaron 2.000 plazas en programas de grado y máster en Informática de la Salud en universidades españolas. De estas plazas, se cubrieron 1.800, lo que representa una tasa de ocupación del 90%.
+
+Además, según informes de la industria y tendencias del mercado laboral, se prevé que el campo de la Informática de la Salud seguirá creciendo en los próximos años. Se estima que la demanda de especialistas en Informática de la Salud aumentará un 20% entre 2023 y 2028.
+
+Según un estudio publicado por el Observatorio de la Formación Profesional del Ministerio de Educación, la empleabilidad de los titulados en Informática de la Salud es muy alta. En el curso 2022-2023, el 92% de los titulados en esta especialidad encontraron trabajo en los seis meses siguientes a la finalización de sus estudios.
+
+Brecha entre la Oferta y la Demanda Educativa
+
+El análisis de la demanda y la oferta educativa en el campo de la Informática de la Salud revela que existe una brecha entre ambas. Por un lado, la demanda de especialistas en Informática de la Salud está creciendo, mientras que, por otro lado, la oferta de programas educativos en esta especialidad no está aumentando al mismo ritmo.
+
+Esta brecha puede deberse a una serie de factores, como la falta de recursos financieros o humanos para impartir nuevos programas, o la falta de interés de las universidades por ofrecer programas de formación en esta especialidad.
+
+El Curso de Especialista en Informática de la Salud de la UCJC se posiciona dentro del mercado educativo actual como una respuesta a la creciente demanda de especialistas en esta disciplina.
+El programa propuesto ofrece una formación especializada en áreas clave de la Informática de la Salud, como la gestión de sistemas de información sanitarios, la inteligencia artificial en la salud o la seguridad informática sanitaria.
+
+Además, el programa se imparte en una modalidad remota, lo que lo hace flexible y accesible para profesionales que ya se encuentran trabajando en el sector sanitario. En conclusión, el nuevo programa propuesto es relevante y oportuno, ya que responde a una demanda no satisfecha en el campo de la Informática de la Salud.
+
+PÚBLICO OBJETIVO
+
+Perfil de Ingreso y criterios de admisión imprescindibles
+
+El programa está dirigido a profesionales del ámbito de la salud y la tecnología que buscan especializarse en la gestión de sistemas de información sanitarios. Los candidatos ideales poseerán un título universitario en campos como Medicina, Enfermería, Biomedicina, Ingeniería Biomédica, Odontología, Informática o áreas relacionadas. Además, se valorará la experiencia profesional en el sector de la salud o en el desarrollo e implementación de soluciones tecnológicas en entornos clínicos.
+El criterio de admisión será únicamente contar con la titulación universitaria en áreas relacionadas con la salud o la tecnología.
+
+Este programa está especialmente diseñado para satisfacer las necesidades de aquellos profesionales que desean liderar la transformación digital en el ámbito de la salud, mejorando la eficiencia, la calidad del servicio y la gestión de la información sanitaria.
+
+Salidas profesionales
+
+En el emergente campo del Blockchain y las Bases de Datos Distribuidas, los profesionales pueden optar por ser Desarrolladores de Soluciones de Blockchain para Historiales Médicos o Especialistas en Seguridad de Bases de Datos Distribuidas.
+
+En el campo de la Inteligencia Artificial, los graduados tienen un abanico de salidas profesionales prometedoras, incluyendo posiciones como Científicos de Datos especializados en salud, donde pueden aplicar algoritmos de aprendizaje automático para procesar y analizar grandes volúmenes de datos médicos. Ingenieros de Aprendizaje Automático pueden diseñar y desarrollar modelos predictivos que mejoren los diagnósticos y la personalización del tratamiento. Además, los roles de Desarrolladores de Inteligencia Artificial se centran en la creación de sistemas y aplicaciones que pueden simular el razonamiento clínico para asistir en la toma de decisiones médicas. Estos profesionales son fundamentales para la innovación en la telemedicina, la gestión de enfermedades crónicas y la optimización de los flujos de trabajo en atención sanitaria, contribuyendo significativamente a la evolución de la medicina moderna.
+
+
+Resumen de Posibles Salidas Profesionales
+
+La formación en Informática de la Salud abre un abanico de posibilidades laborales en sectores claves:
+
+Administración Pública: Posiciones en gestión de sistemas de salud pública, análisis de datos y coordinación de proyectos tecnológicos.
+Inteligencia Artificial en Medicina: Especialistas en IA para diagnósticos y desarrolladores de algoritmos predictivos.
+Blockchain en Salud: Desarrolladores de soluciones blockchain para historiales médicos y consultoría en implementación.
+Big Data y Business Intelligence: Analistas de big data, desarrolladores de BI para el sector salud y consultores de estrategias de datos.
+Investigación Clínica: Analistas de sistemas y bioinformáticos que respaldan la investigación clínica y la gestión de ensayos.
+
+Estas trayectorias destacan la intersección entre la tecnología y la salud, mostrando el impacto transformador de la informática biomédica.
+
+Justificación para Alumnos UCJC
+
+El Curso de Especialista en Informática de la Salud se presenta como un complemento vital para los estudiantes de la UCJC que buscan una ventaja competitiva en el mercado laboral. Integrándose con sus titulaciones actuales, este curso proporciona una especialización que cruza disciplinas, preparando a los alumnos para liderar la transformación digital en el ámbito de la salud. Los alumnos podrán aplicar tecnologías emergentes como la inteligencia artificial y el big data en contextos clínicos, lo cual no solo aumenta su empleabilidad, sino que también amplía su perspectiva profesional en campos tan diversos como la gestión de la información sanitaria y la robótica médica. Este curso refuerza y amplía los conocimientos y competencias adquiridos en sus titulaciones primarias, situándolos en la vanguardia de la innovación en salud.
+Por un lado, complementa la formación ofertada en la Facultad de Tecnología y Ciencia complementando con contenidos específicos de aplicación a la gestión biosanitaria.  Por otro lado, será una formación especializada complementaria excelente para el alumnado egresado de los diversos Grados de Facultad HM Hospitales de Ciencias de la Salud de la UCJC. Titulados de los Grados como el de Medicina, Biomedicina, Farmacia y Enfermería podrán cursar esta formación y especializarse en la utilización de herramientas de vanguardia, como son el uso de la IA, y aplicarlas a trabajo diario, mejorando y optimizando la realización de sus puestos laborales, como pueden serla práctica clínica diaria, investigación o los cuidados.
+
+Justificación para Alumnos Externos
+
+Para los alumnos externos, el Curso de Especialista en Informática de la Salud representa una oportunidad única para sumergirse en un campo de estudio interdisciplinario y de rápido crecimiento. Este programa atraerá a profesionales y graduados externos que busquen especializarse en la aplicación de la informática en el ámbito sanitario, ofreciendo una formación que es difícil de encontrar en otras instituciones. Además, el curso está diseñado para proporcionar una educación práctica y aplicada que prepara a los estudiantes para enfrentar los desafíos actuales en los sistemas de salud, desde la implementación de sistemas de historias clínicas electrónicas hasta el desarrollo de soluciones de telemedicina para servicios públicos de salud. El curso sirve como un puente para aquellos que desean ingresar o avanzar en el sector de la salud digital, un campo que continúa expandiéndose globalmente.
+
+4.- VALOR DIFERENCIAL DE LA PROPUESTA EN LA UCJC
+
+Es el primer curso específico en este campo que se organiza en una modalidad online, asequible a perfiles propios de la UCJC como a perfiles profesionales biosanitarios.
+
+5.- VISIBILIDAD Y REPUTACIÓN
+
+La visibilidad y reputación de una universidad son factores clave para su éxito. La UCJC puede contribuir a su propia visibilidad y reputación a través del Curso de Especialista en Informática de la Salud de las siguientes formas:
+
+Colaboración con expertos de reconocido prestigio: El programa contará con la participación de expertos de reconocido prestigio en el ámbito de la Informática de la Salud, tanto académicos como profesionales. Estos expertos aportarán su conocimiento y experiencia al curso, lo que lo enriquecerá y lo convertirá en una referencia en la formación de especialistas en esta disciplina. Además, la participación de estos expertos permitirá a la UCJC posicionarse como una universidad de referencia en la Informática de la Salud.
+
+Acuerdos de colaboración con empresas o instituciones externas: Se establecerán acuerdos de colaboración con empresas e instituciones externas del sector sanitario. Estos acuerdos permitirán a la universidad ofrecer una formación actualizada y adaptada a las necesidades del mercado laboral. Además, la colaboración con empresas e instituciones externas permitirá a la UCJC ampliar su red de contactos y oportunidades de colaboración.
+
+Demanda social: La demanda de especialistas en Informática de la Salud está creciendo, lo que supone una oportunidad para la UCJC de atraer a estudiantes de todo el mundo. La UCJC puede aprovechar esta oportunidad para posicionarse como una universidad líder en la formación de especialistas en esta disciplina.
+
+Oportunidad del título propuesto: El título propuesto es novedoso y responde a una necesidad real del mercado laboral. Esto permitirá a la UCJC posicionarse como una universidad innovadora y comprometida con la formación de profesionales de calidad. Además, el título propuesto puede atraer a estudiantes que buscan una formación especializada y orientada a la empleabilidad.
+
+En concreto, la UCJC puede promover la visibilidad y reputación del curso a través de las siguientes acciones:
+
+Difusión del curso a través de los canales de comunicación de la universidad, tanto online como offline. La UCJC puede difundir el curso a través de su página web, redes sociales, boletines informativos, etc. Además, la universidad puede participar en eventos y congresos relacionados con la Informática de la Salud para dar a conocer el curso a un público más amplio.
+
+Participación de la universidad en eventos y congresos relacionados con la Informática de la Salud. La participación de la universidad en eventos y congresos relacionados con la Informática de la Salud permitirá a la universidad dar a conocer el curso a un público especializado. Además, la universidad puede aprovechar esta oportunidad para establecer contactos con empresas e instituciones del sector sanitario.
+
+Publicación de artículos y estudios sobre el curso en revistas y publicaciones especializadas. La publicación de artículos y estudios sobre el curso en revistas y publicaciones especializadas permitirá a la universidad dar a conocer el curso a un público más amplio. Además, esta publicación puede ayudar a posicionar a la UCJC como una universidad líder en la formación de especialistas en Informática de la Salud.
+
+Establecimiento de alianzas con organizaciones y empresas del sector sanitario. El establecimiento de alianzas con organizaciones y empresas del sector sanitario permitirá a la UCJC ofrecer prácticas y becas a los estudiantes del curso. Además, estas alianzas pueden ayudar a la universidad a posicionarse como una universidad comprometida con el sector sanitario.
+
+Estas acciones permitirán a la UCJC dar a conocer el curso a un público más amplio y posicionarse como una universidad líder en la formación de especialistas en Informática de la Salud.
+
+- IDENTIFICACIÓN DEL CLAUSTRO NECESARIO PARA IMPLANTAR LA PROPUESTA.
+
+El claustro necesario para implantar la propuesta de Curso de Especialista en Informática de la Salud de la UCJC está formado por los siguientes perfiles profesionales:
+
+Expertos en Informática de la Salud: Estos expertos deben tener una formación académica y experiencia profesional en el ámbito de la Informática de la Salud. Deben ser capaces de impartir formación de calidad en áreas clave de la disciplina, como la gestión de sistemas de información sanitarios, la inteligencia artificial en la salud o la seguridad informática sanitaria.
+
+Profesionales del sector sanitario: Estos profesionales pueden aportar su experiencia y conocimiento del sector sanitario al curso. Pueden contribuir a que el curso sea relevante para las necesidades del mercado laboral y que los estudiantes adquieran las competencias necesarias para trabajar en el sector sanitario.
+
+La composición del claustro debe ser equilibrada, de modo que se asegure la calidad de la formación y la relevancia del curso para las necesidades del mercado laboral.
+
+Para garantizar el éxito del curso, el claustro tendrá las siguientes características:
+
+Diversidad. La diversidad del claustro es importante para ofrecer una formación completa y actualizada. Los estudiantes deben tener la oportunidad de aprender de profesionales con diferentes perfiles y experiencia. Esto les permitirá adquirir una visión más amplia de la Informática de la Salud y de las diferentes perspectivas que se pueden adoptar en esta disciplina.
+
+Se puede promover la diversidad del claustro de las siguientes maneras:
+
+Invitando a profesores invitados de otras universidades o centros de investigación. Esto permitirá incorporar a profesionales con diferentes perspectivas y experiencias a la formación.
+
+Acordando colaboraciones con empresas e instituciones del sector sanitario. Esto permitirá que los profesionales del sector sanitario participen en la formación del curso.
+
+Excelencia. La excelencia del claustro es importante para garantizar la calidad de la formación impartida. Los estudiantes deben tener la oportunidad de aprender de profesionales de reconocido prestigio en sus campos. Esto les ayudará a adquirir las competencias necesarias para trabajar en el sector sanitario.
+
+Se promoverá la excelencia del claustro de las siguientes maneras:
+
+Realizando una selección rigurosa de los profesionales que formarán parte del claustro. Este proceso debe tener en cuenta la formación académica, la experiencia profesional y el reconocimiento del profesional en su campo.
+
+Ofreciendo a los profesionales del claustro oportunidades de formación y desarrollo profesional. Esto les permitirá mantenerse al día de los últimos avances en la Informática de la Salud.
+
+Compromiso. El compromiso de los miembros del claustro es importante para garantizar el éxito del curso. Los estudiantes deben tener la confianza de que los profesionales que les imparten formación están comprometidos con su aprendizaje y con el desarrollo de la Informática de la Salud.
+
+Se promoverá el compromiso de los miembros del claustro de las siguientes maneras:
+
+Ofreciendo a los profesionales del claustro oportunidades de participación en la planificación y desarrollo del curso. Esto les permitirá sentirse parte del proyecto y comprometidos con su éxito.
+
+Creando un ambiente de trabajo positivo y colaborativo entre los miembros del claustro. Esto les ayudará a trabajar juntos para ofrecer una formación de calidad.
+
+Se llevará a cabo un proceso de selección riguroso para identificar a los profesionales que formarán parte del claustro. Este proceso debe tener en cuenta los criterios de diversidad, excelencia y compromiso.
+
+Estas acciones permitirán a la UCJC dar a conocer el curso a un público más amplio y posicionarse como una universidad líder en la formación de especialistas en Informática de la Salud.
+
+– SOSTENIBILIDAD ECONÓMICA.
+Adjunto anexo III
+El Curso muestra una progresión financiera positiva a lo largo de tres años. El curso mantiene un precio constante de 1,300 euros por alumno, mientras que los ingresos brutos aumentan anualmente debido al incremento en el número de alumnos inscritos: 12 en el primer año, 15 en el segundo, y 20 en el tercer año. Esto resulta en ingresos netos crecientes de 18.000, 22.500 y 30.000 euros respectivamente.
+
+Los gastos directos se mantienen relativamente constantes en torno a 13.000 euros cada año, lo que sugiere una gestión de costos eficiente. Los costos incluyen material de prácticas, honorarios para profesores internos y externos, clases, master clases y otros gastos operativos como dietas y desplazamientos.
+
+El margen de contribución, que es la diferencia entre los ingresos netos y los gastos totales, muestra una tendencia ascendente significativa de 4.990 euros en el primer año a 16.881 euros en el tercer año. Este aumento refleja una mejora en la eficiencia y escalabilidad del curso. Los porcentajes de margen de contribución del 28%, 42% y 56% para cada año respectivamente, indican una sólida sostenibilidad económica y la capacidad del curso para generar fondos que podrían reinvertirse para su mejora y expansión.
+
+8.– PLAN DE ESTUDIOS TENTATIVO.
+
+El Curso de Especialista en Informática de la Salud está diseñado para equipar a los profesionales de la salud con las competencias necesarias para entender y aplicar las herramientas de informática médica en sus prácticas diarias. Diseñado 100% en docencia online, con sesiones virtuales sincrónicas de teleconferencia en directo con el profesorado y prácticas interactivas. Con una duración total de 150 horas, equivalentes a 6 créditos ECTS, el curso ofrece una formación exhaustiva que cubre desde los fundamentos teóricos hasta las aplicaciones prácticas más avanzadas, como el Big Data, la Inteligencia Artificial, y la interoperabilidad en el ámbito sanitario, proporcionando una experiencia de aprendizaje completa y flexible.
+Mediante un enfoque práctico, los estudiantes aprenderán a evaluar y manejar soluciones de software para la salud, entenderán el impacto de la tecnología de la información en el entorno médico y estarán preparados para liderar la transformación digital en el ámbito de la salud.
+Este curso representa una oportunidad única para profesionales del ámbito biosanitario en áreas de la medicina, investigación, farmacia, enfermería, odontología, que necesiten adquirir conocimientos vanguardistas y aplicarlos para mejorar la calidad de la atención sanitaria.
+
+La suma de las horas de trabajo directo e indirecto (síncrono y asíncrono) y el trabajo autónomo totaliza 150 horas para el curso completo.:
+
+
+El diseño del curso asigna un peso considerable al aprendizaje asincrónico (60%), reflejando la importancia de la flexibilidad y la autogestión del aprendizaje en la educación moderna para profesionales en activo. Este formato permite a los estudiantes compatibilizar su formación con otras responsabilidades. El trabajo autónomo comprende un 24% del total, lo que permite suficiente tiempo para la reflexión y el estudio profundo de los contenidos teóricos. Las horas sincrónicas representan el 16%, lo cual es adecuado para asegurar que haya suficiente interacción directa con los instructores para aclarar dudas y reforzar el aprendizaje.
+
+Esta estructura también asegura que se cumpla con el requisito de las horas de contacto directo y trabajo independiente establecido por el sistema ECTS, proporcionando una educación integral y práctica en informática médica.
+
+Módulos de aprendizaje
+
+Distribución de Horas
+
+
+Descripción y Objetivos de aprendizaje
+Módulo I: 	Bases para el uso de la IA en salud
+
+Introducción a la Informática Médica.
+
+Proporciona una base sólida en los principios fundamentales de la informática aplicada al entorno médico. Se explorará cómo la tecnología de la información se integra y beneficia la práctica médica, la gestión de la salud, la investigación y la educación médica. Los estudiantes adquirirán conocimientos prácticos sobre el uso de sistemas informáticos en salud y aprenderán a evaluar necesidades tecnológicas y soluciones de software.
+
+Objetivos de Aprendizaje:
+
+Comprender el papel de la informática en la mejora de la calidad de la atención sanitaria.
+Identificar los componentes clave de los sistemas de información en salud.
+Aprender a manejar datos de pacientes con herramientas tecnológicas actuales.
+Evaluar el impacto de la tecnología en la atención al paciente y en la administración de la salud.
+Desarrollar habilidades básicas en la selección y uso de software médico especializado.
+
+
+Big Data y Análisis de Datos de Salud.
+
+Esta asignatura está diseñada para introducir a los profesionales de la salud en el mundo del Big Data y su aplicación en el ámbito sanitario. Se centra en las habilidades analíticas necesarias para manejar y analizar grandes volúmenes de datos de salud y se enfoca en la relevancia de estos datos para mejorar la toma de decisiones clínicas y administrativas. El curso abordará también las últimas herramientas y técnicas para el procesamiento de datos masivos y cómo estos pueden revelar patrones significativos y tendencias en la salud y la enfermedad. Los estudiantes aprenderán a aplicar conceptos de análisis de datos para diseñar y evaluar estudios, mejorar la atención al paciente y potenciar la investigación sanitaria.
+
+Objetivos de Aprendizaje:
+
+Comprender los fundamentos y la importancia del Big Data en el contexto de la salud.
+Manejar y analizar grandes conjuntos de datos para mejorar los resultados en salud.
+Utilizar técnicas estadísticas y de machine learning para el análisis de datos de salud.
+Integrar fuentes de datos heterogéneas y realizar análisis predictivos en salud.
+Explorar herramientas de inteligencia artificial y visualización de datos para interpretar y comunicar hallazgos.
+Apreciar las consideraciones éticas y legales en el manejo de datos de salud.
+
+
+Blockchain en salud.
+
+El alumno obtendrá un conocimiento integral sobre la aplicación del blockchain en el sector de la salud. Los estudiantes explorarán el uso de sistemas descentralizados de registro de transacciones para garantizar una gestión segura y privada de los datos médicos. Se analizará el papel de la criptografía en la protección de la información y cómo la tecnología blockchain puede facilitar la interoperabilidad, la transparencia y la eficiencia en el cuidado de la salud. A través del estudio y las prácticas, los alumnos aprenderán a conceptualizar y evaluar la adopción de blockchain en diversos escenarios médicos y sanitarios.
+
+Objetivos de Aprendizaje:
+
+Entender los fundamentos del blockchain y su aplicabilidad en el contexto de la salud.
+Identificar los desafíos y beneficios de implementar blockchain en la gestión de datos sanitarios.
+Explorar casos de uso del blockchain en la salud, incluyendo el intercambio de datos, la gestión de la cadena de suministros farmacéuticos y el seguimiento de la historia clínica.
+Desarrollar criterios para evaluar la viabilidad y el impacto de las soluciones basadas en blockchain.
+Aprender a implementar principios de blockchain en la protección de la privacidad y la seguridad de la información médica.
+Analizar el impacto normativo y las consideraciones éticas del uso de blockchain en la salud.
+
+
+Interoperabilidad en Salud.
+
+Se centra en los estándares y protocolos esenciales para el intercambio de información médica entre diferentes sistemas de salud. Abarca el análisis de los desafíos y soluciones actuales para la integración efectiva de sistemas de información clínica y administrativa. Los estudiantes aprenderán a aplicar normas como HL7 y FHIR para la interoperabilidad, y a utilizar los sistemas EHR y PHR en diferentes contextos clínicos.
+
+Objetivos de Aprendizaje:
+
+Entender los fundamentos y la importancia de la interoperabilidad en los sistemas de salud.
+Dominar los estándares de intercambio de información de salud, incluidos HL7 y FHIR.
+Analizar los desafíos de integrar datos entre sistemas heterogéneos de información sanitaria.
+Implementar prácticas de intercambio de datos que respeten la seguridad y la privacidad del paciente.
+Fomentar el uso efectivo de EHRs y PHRs en la práctica clínica y en la gestión de la salud.
+Adquirir habilidades prácticas en la evaluación y uso de software de interoperabilidad.
+
+Técnicas "low-code/no-code" en Salud.
+
+Esta asignatura está diseñada para introducir a los profesionales de la salud en las tecnologías de desarrollo "low-code/no-code", que permiten crear aplicaciones y soluciones digitales sin necesidad de una programación extensiva. A través de esta modalidad, se pretende que los estudiantes comprendan cómo estas herramientas pueden simplificar la creación de software adaptado a las necesidades de la salud, optimizando los procesos y permitiendo una mayor flexibilidad y adaptabilidad. Los alumnos aprenderán a utilizar plataformas "low-code/no-code" para desarrollar aplicaciones que mejoren la eficiencia y la calidad de los servicios de salud.
+
+Objetivos de Aprendizaje:
+
+Comprender la importancia de las técnicas "low-code/no-code" en el contexto de la informática médica.
+Aprender a utilizar plataformas "low-code/no-code" para la creación de soluciones digitales en salud.
+Diseñar y desarrollar aplicaciones que apoyen la gestión clínica y la toma de decisiones basada en datos.
+Identificar oportunidades para mejorar procesos sanitarios a través de soluciones digitales rápidas y eficientes.
+Adquirir habilidades para la implementación rápida de cambios y mejoras en las aplicaciones de salud sin necesidad de conocimientos avanzados de programación.
+
+
+Seguridad y Privacidad de la Información Médica.
+
+Ofrece una comprensión integral de la importancia crítica de la seguridad y la privacidad en la gestión de la información médica. Se abordarán los marcos legales, las políticas y los estándares tecnológicos que protegen la información del paciente, así como las mejores prácticas para prevenir, detectar y responder a violaciones de seguridad. Los estudiantes aprenderán a implementar soluciones de seguridad robustas y a manejar de manera confidencial y segura la información médica.
+
+
+
+Objetivos de Aprendizaje:
+
+Entender la legislación y las normativas que rigen la privacidad de los datos médicos.
+Identificar riesgos y vulnerabilidades en los sistemas de información en salud.
+Implementar estrategias de seguridad y privacidad en diversas plataformas de salud.
+Evaluar y responder a incidentes de seguridad informática en entornos médicos.
+Aplicar principios de cifrado y autenticación para proteger la información del paciente.
+Diseñar y gestionar políticas de privacidad en organizaciones de atención médica.
+
+
+Técnicas de Inteligencia Artificial en Salud.
+
+La asignatura proporcionará a los profesionales de la salud una comprensión avanzada y aplicada de la Inteligencia Artificial (IA) en el sector salud, con un enfoque especial en el entrenamiento y la configuración práctica de Modelos de Lenguaje a Gran Escala (LLM) y Transformadores Generativos Pre-entrenados (GPT). Los participantes explorarán el uso de estas tecnologías en diversas aplicaciones médicas, desde el diagnóstico hasta el tratamiento personalizado y la gestión de la salud poblacional. Se dará un enfoque práctico para que los alumnos sean capaces de implementar y configurar estas herramientas en sus entornos de trabajo, evaluando su efectividad y adaptándolas a las necesidades específicas de la salud.
+
+Objetivos de Aprendizaje:
+
+Entender cómo los LLM y GPT pueden transformar la práctica médica y la investigación.
+Capacitar en la configuración y el entrenamiento de LLM y GPT para aplicaciones de salud específicas.
+Desarrollar competencias en la evaluación de la precisión y la relevancia clínica de los resultados de la IA.
+Aplicar técnicas de IA para personalizar tratamientos y mejorar los resultados de salud de los pacientes.
+Adquirir conocimientos sobre cómo integrar soluciones de IA en los flujos de trabajo de salud existentes para la mejora continua del cuidado.
+
+
+Módulo II: Desarrollo Práctico de Soluciones de Inteligencia Artificial en Salud.
+
+1. Inteligencia Artificial en el Entorno Hospitalario.
+
+Proporciona una base sólida en la aplicación de Inteligencia Artificial (IA) para el diagnóstico asistido, la monitorización de pacientes y la planificación de tratamientos en el entorno hospitalario. Se enfocará en cómo la IA puede optimizar los procesos hospitalarios, mejorar los resultados de salud de los pacientes y apoyar en la toma de decisiones clínicas. Los participantes aprenderán a implementar soluciones de IA, a interpretar modelos predictivos y a utilizar herramientas de análisis de datos para mejorar la eficiencia operativa y la calidad de la atención médica.
+
+Objetivos de Aprendizaje:
+
+Comprender el uso y las aplicaciones de la IA en el entorno hospitalario.
+Analizar cómo la IA contribuye al diagnóstico asistido y la planificación de tratamientos.
+Implementar herramientas de IA para la monitorización y seguimiento de pacientes.
+Evaluar el uso de la IA en la mejora de la eficiencia operativa en hospitales.
+Desarrollar destrezas para la utilización de modelos predictivos en la atención médica.
+Integrar conocimientos de IA en la práctica clínica para la toma de decisiones basada en evidencia.
+
+
+
+2. Inteligencia Artificial en la Industria Farmacéutica.
+
+La asignatura de Inteligencia Artificial en la Industria Farmacéutica ofrece un enfoque profundo y específico sobre cómo la IA puede transformar los procesos farmacéuticos desde la investigación inicial hasta los ensayos clínicos y la producción. El curso se centra en el ciclo de vida del desarrollo de medicamentos, aprovechando algoritmos avanzados para predecir la viabilidad de los compuestos, optimizar las formulaciones y mejorar la eficiencia de los ensayos clínicos. Los participantes se familiarizarán con las herramientas y técnicas de IA más recientes que están redefiniendo la industria farmacéutica, incluyendo la simulación y modelado computacional, el análisis predictivo y las plataformas de inteligencia de datos. Además, el curso abordará los desafíos éticos y regulatorios implicados en la adopción de la IA en entornos altamente regulados como el farmacéutico.
+
+Objetivos de Aprendizaje:
+
+Adquirir una comprensión detallada del papel de la IA en la investigación y desarrollo farmacéutico.
+Aplicar el conocimiento de IA para el descubrimiento de fármacos y la optimización de las cadenas de suministro farmacéuticas.
+Analizar cómo la IA puede incrementar la eficacia y seguridad de los ensayos clínicos.
+Implementar estrategias de análisis de datos para mejorar la toma de decisiones en la industria farmacéutica.
+Evaluar los aspectos éticos y legales del uso de IA en el desarrollo de medicamentos.
+
+
+3. Inteligencia Artificial en Seguros de Salud.
+
+La inteligencia artificial (IA) en los seguros de salud se centra en la aplicación de algoritmos avanzados para mejorar los resultados de salud y la eficiencia operativa. A través del análisis de grandes volúmenes de datos, la IA puede identificar patrones que ayudan a predecir riesgos y resultados, facilitando la toma de decisiones basadas en evidencias y la personalización de los planes de salud. Este curso está diseñado para enseñar a los profesionales de la salud cómo la IA puede ser utilizada para optimizar los servicios médicos, reducir costos y mejorar la atención al paciente.
+
+Objetivos de Aprendizaje:
+
+Entender cómo la IA puede transformar el seguro de salud mediante la predicción y prevención de enfermedades.
+Aprender a aplicar modelos de IA para el análisis de riesgos y la personalización de coberturas de seguros.
+Diseñar estrategias para implementar soluciones de IA que mejoren la eficiencia de los procesos en seguros de salud.
+Analizar casos de uso de IA en el seguro de salud para entender su impacto en la reducción de la morbilidad y mortalidad.
+Adquirir habilidades en la evaluación de tecnologías de IA y su integración en el entorno de seguros de salud.
+
+Inteligencia Artificial en Empresas de Tecnología Sanitaria.
+
+La asignatura de "Inteligencia Artificial en Empresas de Tecnología Sanitaria" se centra en el desarrollo de soluciones de software de salud avanzadas utilizando IA para optimizar la gestión, el diagnóstico y la toma de decisiones clínicas. Se dará énfasis en la aplicación de la IA para la mejora y la innovación en tecnologías sanitarias, preparando a los profesionales para enfrentar los desafíos actuales y futuros del sector.
+
+Objetivos de Aprendizaje:
+
+Dominar las bases de la Inteligencia Artificial aplicada al desarrollo de software de salud.
+Diseñar y evaluar soluciones tecnológicas para la gestión de la salud que involucren IA.
+Aplicar la IA en la creación de herramientas de soporte al diagnóstico y la toma de decisiones clínicas.
+Abordar los desafíos éticos y prácticos en la implementación de la IA en el entorno sanitario tecnológico.
+Fomentar la innovación en la industria de tecnología sanitaria a través de la IA.
+
+
+
+9. MODELO DE COMPETENCIAS TRANSVERSALES DE LA UCJC
+Identifique en qué medida la presente propuesta de título atenderá al Modelo de Competencias Transversales de la UCJC y los Ejes estratégicos. A continuación, indique en las casillas correspondientes, qué contenidos curriculares, metodologías de aprendizaje, prácticas externas o actividades extracurriculares favorecerán la adquisición y/o desarrollo de las competencias del Perfil del estudiante.
+
+
+
+
+
+
+
+
+
+
+10. OTRA INFORMACIÓN DE INTERÉS
+Señale toda aquella información que considere de interés y que no esté incluida en los puntos anteriores.
+RECOMENDACIONES INICIALES PARA LA ELABORACIÓN DE LA PROPUESTA
+
+Acuerde con Marketing el mejor nombre posible que respete el espíritu académico y que sea comercial y entendible.
+
+Revise la demanda del título y proyección laboral cuidadosamente antes de lanzar una propuesta.
+
+Revise las necesidades de espacios y equipamientos, atendiendo a nuestra realidad. Si se va a necesitar inversión adicional, no olvide incluirla en la memoria de presentación.
+
+Sea realista en cuanto a las necesidades y oportunidades de RRHH. Este punto suele ser el más complicado ante la Fundación.
+
+En titulaciones de Grado, procure que el título abra las puertas a dobles titulaciones con otros títulos ya existentes o en proyecto.
+
+En titulaciones de Máster, busque que la propuesta sea un verdadero reclamo para alumnos (oficial frente a propio, convenio con empresa/institución que avale, profesionalizante o de investigación, según demanda…).
+
+
+
+
+<!-- tabla 1 -->
+| Universidad | Programa | Créditos ECTS |
+| Universidad de Córdoba, Universidad de Granada, Universidad de Jaén | Curso Interuniversitario de Big Data y Salud | 8 |
+| Fundación Tecnologías Sanitarias | Formación Continuada en Realidad Virtual y Aplicaciones Sanitarias | 6 |
+| Asociación Española de Bioinformática y Biología Computacional (SEBIOT) | Curso de Iniciación a la Inteligencia Artificial en Salud | 6 |
+| Escuela Nacional de Sanidad, Ministerio de Sanidad, Servicios Sociales e Igualdad | Taller de Innovación Tecnológica en el Sistema Sanitario Español | 6 |
+| Universidad de Barcelona | Curso de Bioinformática y Genómica Médica | 6 |
+| Universidad Autónoma de Madrid | Curso de Aplicaciones de la Inteligencia Artificial en la Clínica | 6 |
+| Universidad de Valencia | Curso de Gestión de la Información Sanitaria | 6 |
+| Universidad de Barcelona | Curso de Telemedicina y eSalud | 6 |
+| IEBS Digital School | Big Data y Gestión de la Información Sanitaria | 5 |
+
+
+<!-- tabla 2 -->
+| Tipo de Actividad | Horas | Horas por ECTS | Porcentaje Total |
+| Síncrono | 24 | 4 | 16% |
+| Asíncrono | 90 | 15 | 60% |
+| Trabajo Autónomo | 36 | 6 | 24% |
+| Total | 150 | 25 | 100% |
+
+
+<!-- tabla 3 -->
+|  |  | Horas síncronas (virtuales directo) | Horas prácticas | Horas estudio autónomo |
+| Módulo I | Bases para el uso de la IA en salud | 21 | 70 | 28 |
+| 1 | Introducción a la Informática Médica | 3 | 10 | 4 |
+| 2 | Big Data y Análisis de Datos de Salud | 3 | 10 | 4 |
+| 3 | Blockchain en Salud | 3 | 10 | 4 |
+|  | Interoperabilidad en Salud | 3 | 10 | 4 |
+| 5 | Técnicas "low-code/no-code" | 3 | 10 | 4 |
+| 6 | Seguridad y Privacidad de la Información Médica | 3 | 10 | 4 |
+| 7 | Técnicas de IA para el Análisis de Datos de Salud | 3 | 10 | 4 |
+| Módulo II | Desarrollo Práctico de Soluciones de IA en salud | 4 | 20 | 8 |
+| 1 | IA en el Entorno Hospitalario | 1 | 5 | 2 |
+| 2 | IA en la Industria Farmacéutica | 1 | 5 | 2 |
+| 3 | IA en Seguros de Salud | 1 | 5 | 2 |
+| 4 | IA en Empresas de Tecnología Sanitaria | 1 | 5 | 2 |
+|  |  |  |  |  |
+|  | Total General | 25 | 90 | 36 |
+
+
+<!-- tabla 4 -->
+| DIMENSIÓN | COMPETENCIA | EJE ESTRATÉGICO | EJE ESTRATÉGICO | EJE ESTRATÉGICO | EJE ESTRATÉGICO |
+| Dimensión | Competencia | Innov. /Emprendimiento | Tecnología/ Digitalización | Respons./ Compr. Social | Bienestar |
+| Aprendizaje para la Transformación | AUTORREGULACIÓN  (pensamiento flexible, control atencional, organización, planificación y toma de decisiones) |  | x |  |  |
+| Aprendizaje para la Transformación | PROACTIVIDAD  (visión de oportunidades, iniciativa, creatividad y originalidad) | x |  |  |  |
+| Aprendizaje para la Transformación | ESTRATEGIAS DE PENSAMIENTO (libertad de pensamiento (y de cátedra), análisis crítico, razonamiento, ideación y resolución de problemas) | x | x | x | x |
+| Transformación personal | EQUILIBRIO (autocuidado físico, gestión emocional y desarrollo espiritual) |  |  |  | x |
+| Transformación personal | CRECIMIENTO PERSONAL  (Autoconocimiento y propósito vital) |  |  | x |  |
+| Transformación Relacional y Organizacional | VALORES  (tolerancia, respeto a la diversidad, equidad, igualdad de género y cultura de paz) | x | x | x | x |
+| Transformación Relacional y Organizacional | LIDERAZGO COMPARTIDO  (Habilidades de comunicación, construcción comunitaria y colaboración) |  |  |  | x |
+| Transformación para la Sostenibilidad | PARTICIPACIÓN  (ciudadanía global (diseño y accesibilidad universal), mejora del entorno, construcción del bien social) | x | x | x | x |
+| Transformación para la Sostenibilidad | DESARROLLO SOSTENIBLE (economía circular y medioambiente) | x | x | x | x |
+| Transformación Disciplinar | PROGRESO  (Investigación científica, avance tecnológico, profesionalización y servicio a la sociedad) | x | x | x | x |
+| Transformación Disciplinar | CREACIÓN DE CULTURA (Arte y humanidades) |  |  |  |  |
