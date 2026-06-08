@@ -80,6 +80,10 @@ def main() -> int:
             warnings.append(f"{d.get('id')} content_path no existe: {cp}")
         sf = d.get("source_file", "")
         if sf and not (PROFILE_ROOT / sf).exists():
+            # Si ya está marcada como archivada por esta misma razón,
+            # no es ruido — la pipeline ya lo registró deliberadamente.
+            if d.get("status") == "Archived" and d.get("archived_reason") == "source-file-missing":
+                continue
             warnings.append(f"{d.get('id')} source_file no existe: {sf}")
 
     for w in warnings:
