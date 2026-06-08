@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  launchd plist — supervisor del watcher de raw_data/.
+
+  Instalación:
+
+    1. Edita USERNAME y REPO_PATH abajo (o, mejor, copia este plist a
+       ~/Library/LaunchAgents/ y usa el comando del runbook para
+       reescribir los placeholders).
+    2. Carga con:
+         launchctl bootstrap gui/$(id -u) \
+           ~/Library/LaunchAgents/dev.vinals.master-healthcare-ai.watcher.plist
+    3. Logs en:
+         documentation/setup/syncthing/logs/launchd.{out,err}.log
+    4. Recarga tras editar:
+         launchctl bootout gui/$(id -u)/dev.vinals.master-healthcare-ai.watcher
+         launchctl bootstrap gui/$(id -u) <plist>
+
+  Nota: KeepAlive = true significa que si el watcher muere por cualquier
+  razón, launchd lo reinicia. ThrottleInterval evita loops de crash
+  rápido.
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>dev.vinals.master-healthcare-ai.watcher</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/bash</string>
+    <string>__REPO_PATH__/documentation/setup/syncthing/raw-data-watcher.sh</string>
+  </array>
+
+  <key>WorkingDirectory</key>
+  <string>__REPO_PATH__</string>
+
+  <key>EnvironmentVariables</key>
+  <dict>
+    <!-- Asegura PATH para fswatch (Homebrew Apple Silicon e Intel). -->
+    <key>PATH</key>
+    <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+  </dict>
+
+  <key>RunAtLoad</key>
+  <true/>
+
+  <key>KeepAlive</key>
+  <true/>
+
+  <key>ThrottleInterval</key>
+  <integer>30</integer>
+
+  <key>StandardOutPath</key>
+  <string>__REPO_PATH__/documentation/setup/syncthing/logs/launchd.out.log</string>
+
+  <key>StandardErrorPath</key>
+  <string>__REPO_PATH__/documentation/setup/syncthing/logs/launchd.err.log</string>
+</dict>
+</plist>

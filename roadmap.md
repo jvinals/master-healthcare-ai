@@ -6,6 +6,7 @@
 
 - [x] **Bootstrap del repositorio** (2026-06-08) — estructura, README, CONTRIBUTING, registro inicial, script de ingestión, dashboard mínimo, sitio MkDocs base.
 - [x] **Ingestión inicial** — `raw_data/master-training/` escaneado completo; cada fichero entra en `content/` y en `data/document-registry.yaml` como `Draft`.
+- [x] **Subida remota vía Syncthing + watcher** (2026-06-08, material en `setup/syncthing/`) — runbook listo; pendiente ejecutarlo en el Mac mini.
 
 ## En curso
 

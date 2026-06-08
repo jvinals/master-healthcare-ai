@@ -1,0 +1,27 @@
+# .stignore — patrones que Syncthing NO debe sincronizar dentro de raw_data/.
+#
+# Pon este fichero EN LA RAÍZ de la carpeta compartida (raw_data/) en
+# el Mac mini. Syncthing lo propagará al resto de dispositivos.
+
+# Cruft del sistema operativo
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+
+# Ficheros temporales / locks de oficina
+~$*
+*.tmp
+*.swp
+*.lock
+.~lock.*
+
+# Backups automáticos
+*.bak
+*.orig
+
+# Carpetas internas de Syncthing — Syncthing las excluye solo, pero
+# por si acaso si reorganizamos:
+.stfolder
+.stversions
+.stignore
