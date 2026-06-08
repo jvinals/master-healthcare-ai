@@ -236,3 +236,172 @@ resumen  docs=40  errores=0  avisos=0
 2026-06-08 19:31:56 → python scripts/build_dashboard.py
 dashboard escrito (40 docs, 35 familias).
 2026-06-08 19:31:56 ingestión completada
+2026-06-08 20:35:17 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test
+2026-06-08 20:35:17 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test/origen
+2026-06-08 20:35:17 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test/destino
+2026-06-08 20:35:17 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test/origen/move-test.txt
+2026-06-08 20:35:27 debounce satisfecho (10s sin eventos) — disparo ingestión
+2026-06-08 20:35:27   …todavía hay ficheros modificados en <20s, espero
+2026-06-08 20:35:48 → python scripts/ingest.py
+2026-06-08 20:35:48,075 INFO ingest start  raw=/Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data  force=False  dry_run=False
+2026-06-08 20:35:48,075 INFO log file: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/documentation/ingestion/run-20260608-203548.log
+2026-06-08 20:35:48,098 INFO skip (already ingested) raw_data/.stfolder/syncthing-folder-99dcd9.txt
+2026-06-08 20:35:48,098 INFO skip (already ingested) raw_data/.stignore
+2026-06-08 20:35:48,099 INFO ingested raw_data/_test/origen/move-test.txt  →  content/doc-0041-move-test.md  (family: fam-move-test)
+2026-06-08 20:35:48,099 INFO skip (already ingested) raw_data/becas/santander/program-microcredenciales-2026-i-edicion-IA.xlsx
+2026-06-08 20:35:48,100 INFO skip (already ingested) raw_data/master-training/Formación/ANEXO I Propuesta Curso de Especialista en Informática de la Salud.docx
+2026-06-08 20:35:48,100 INFO skip (already ingested) raw_data/master-training/Formación/ANEXO I Propuesta Nuevo Titulo.docx
+2026-06-08 20:35:48,100 INFO skip (already ingested) raw_data/master-training/Formación/ANEXO III P&L Curso de Especialista en Informática de la Salud.xlsx
+2026-06-08 20:35:48,100 INFO skip (already ingested) raw_data/master-training/Formación/ANEXO III_Gerencia_Def.xlsx
+2026-06-08 20:35:48,100 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/20240928_Contrato_Mercantil_Francisco_Javier_.pdf
+2026-06-08 20:35:48,101 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Calificaciones/Actas/0_conv._2024-25_ene__asignatura_77620_grupo_1_orden_0_.pdf
+2026-06-08 20:35:48,101 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Calificaciones/Actas/signed/0_conv._2024-25_ene__asignatura_77620_grupo_1_orden_0_.pdf
+2026-06-08 20:35:48,101 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Calificaciones/CÓMO CERRAR Y FIRMAR ACTAS.pdf
+2026-06-08 20:35:48,102 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Calificaciones/Examen Asignatura de Telemedicina.docx
+2026-06-08 20:35:48,118 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Calificaciones/Manual del Profesor UCJC curso 24_25.pptx
+2026-06-08 20:35:48,119 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Copy of Clinical Alerts - 2024 - UCJC.pptx
+2026-06-08 20:35:48,119 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Copy of Univerisity Class - Guide - Clinical Alerts - 2024.docx
+2026-06-08 20:35:48,119 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Financiero/Factura JV 1 Asignatura de Telemedicina.docx
+2026-06-08 20:35:48,120 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Financiero/Factura JV 1 Asignatura de Telemedicina.docx.pdf
+2026-06-08 20:35:48,120 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Financiero/Factura JV 2 Asignatura de Telemedicina.docx
+2026-06-08 20:35:48,120 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Financiero/Factura JV 2 Asignatura de Telemedicina.docx.pdf
+2026-06-08 20:35:48,120 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Financiero/Modelo Factura UCJC.docx
+2026-06-08 20:35:48,120 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Guión para 4 Prácticas de Alumnos en la Asignatura de Telemedicina en Caser.docx
+2026-06-08 20:35:48,121 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Introducción a la Telemedicina y Fundamentos de Redes.pptx
+2026-06-08 20:35:48,121 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Modelo Factura UCJC.doc
+2026-06-08 20:35:48,125 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Sensorización en Salud.pptx
+2026-06-08 20:35:48,125 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Temas /Temario Asignatura Telemedicina.docx
+2026-06-08 20:35:48,126 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Temas /Temario Asignatura Telemedicina.pdf
+2026-06-08 20:35:48,126 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Template Clase de Telemedicina Ingeniería Informática Biomédica.pptx
+2026-06-08 20:35:48,126 INFO skip (already ingested) raw_data/master-training/Formación/Convenio EDGE  HEALTH, S.R.L_.docx
+2026-06-08 20:35:48,127 INFO skip (already ingested) raw_data/master-training/Formación/Convenio EdgeHealth UCJC (firmado 2).pdf
+2026-06-08 20:35:48,129 INFO skip (already ingested) raw_data/master-training/Formación/Convenio EdgeHealth UCJC.pdf
+2026-06-08 20:35:48,129 INFO skip (already ingested) raw_data/master-training/Formación/Documentación Presentada/ANEXO III P&L Curso de Especialista en Informática de la Salud rev JV_REV2.xlsx
+2026-06-08 20:35:48,129 INFO skip (already ingested) raw_data/master-training/Formación/Documentación Presentada/CDA_ANEXO I Propuesta Curso de Especialista en Informática de la Salud_Jennifer .docx
+2026-06-08 20:35:48,129 INFO skip (already ingested) raw_data/master-training/Formación/Documentación Presentada/CDA_ANEXO II_Marketing.docx
+2026-06-08 20:35:48,129 INFO skip (already ingested) raw_data/master-training/Formación/Enviado Dic 2023/ANEXO I Propuesta Curso de Especialista en Informática de la Salud_Jennifer rev JV.docx
+2026-06-08 20:35:48,129 INFO skip (already ingested) raw_data/master-training/Formación/Enviado Dic 2023/ANEXO III P&L Curso de Especialista en Informática de la Salud rev JV.xlsx
+2026-06-08 20:35:48,129 INFO skip (already ingested) raw_data/master-training/Formación/Ficha Profesor_CV Web UCJC (Javier Vinals).doc
+2026-06-08 20:35:48,130 INFO skip (already ingested) raw_data/master-training/Formación/Micromódulo en IA para la Salud/Esquema contenidos titulación web revjv.docx
+2026-06-08 20:35:48,130 INFO skip (already ingested) raw_data/master-training/Formación/Micromódulo en IA para la Salud/Micromódulo de Formación Permanente en Inteligencia Artificial para la salud.pdf
+2026-06-08 20:35:48,130 INFO skip (already ingested) raw_data/master-training/Formación/Micromódulo en IA para la Salud/modelo folleto postgrado revjv.docx
+2026-06-08 20:35:48,131 INFO skip (already ingested) raw_data/master-training/Formación/Programa Curso de Especialista en Informática de la Salud.pdf
+2026-06-08 20:35:48,143 INFO summary  seen=41  ingested=1  skipped=40  total_in_registry=41
+2026-06-08 20:35:48 → python scripts/validate_registry.py
+
+resumen  docs=41  errores=0  avisos=0
+2026-06-08 20:35:48 → python scripts/build_dashboard.py
+dashboard escrito (41 docs, 36 familias).
+2026-06-08 20:35:48 ingestión completada
+2026-06-08 20:36:02 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test/origen/move-test.txt
+2026-06-08 20:36:02 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test/destino/move-test.txt
+2026-06-08 20:36:13 debounce satisfecho (11s sin eventos) — disparo ingestión
+2026-06-08 20:36:13 → python scripts/ingest.py
+2026-06-08 20:36:13,942 INFO ingest start  raw=/Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data  force=False  dry_run=False
+2026-06-08 20:36:13,942 INFO log file: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/documentation/ingestion/run-20260608-203613.log
+2026-06-08 20:36:13,963 INFO skip (already ingested) raw_data/.stfolder/syncthing-folder-99dcd9.txt
+2026-06-08 20:36:13,963 INFO skip (already ingested) raw_data/.stignore
+2026-06-08 20:36:13,964 INFO moved DOC-0041  raw_data/_test/origen/move-test.txt  →  raw_data/_test/destino/move-test.txt
+2026-06-08 20:36:13,964 INFO skip (already ingested) raw_data/becas/santander/program-microcredenciales-2026-i-edicion-IA.xlsx
+2026-06-08 20:36:13,964 INFO skip (already ingested) raw_data/master-training/Formación/ANEXO I Propuesta Curso de Especialista en Informática de la Salud.docx
+2026-06-08 20:36:13,964 INFO skip (already ingested) raw_data/master-training/Formación/ANEXO I Propuesta Nuevo Titulo.docx
+2026-06-08 20:36:13,964 INFO skip (already ingested) raw_data/master-training/Formación/ANEXO III P&L Curso de Especialista en Informática de la Salud.xlsx
+2026-06-08 20:36:13,964 INFO skip (already ingested) raw_data/master-training/Formación/ANEXO III_Gerencia_Def.xlsx
+2026-06-08 20:36:13,964 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/20240928_Contrato_Mercantil_Francisco_Javier_.pdf
+2026-06-08 20:36:13,965 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Calificaciones/Actas/0_conv._2024-25_ene__asignatura_77620_grupo_1_orden_0_.pdf
+2026-06-08 20:36:13,965 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Calificaciones/Actas/signed/0_conv._2024-25_ene__asignatura_77620_grupo_1_orden_0_.pdf
+2026-06-08 20:36:13,965 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Calificaciones/CÓMO CERRAR Y FIRMAR ACTAS.pdf
+2026-06-08 20:36:13,965 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Calificaciones/Examen Asignatura de Telemedicina.docx
+2026-06-08 20:36:13,981 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Calificaciones/Manual del Profesor UCJC curso 24_25.pptx
+2026-06-08 20:36:13,981 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Copy of Clinical Alerts - 2024 - UCJC.pptx
+2026-06-08 20:36:13,981 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Copy of Univerisity Class - Guide - Clinical Alerts - 2024.docx
+2026-06-08 20:36:13,982 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Financiero/Factura JV 1 Asignatura de Telemedicina.docx
+2026-06-08 20:36:13,982 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Financiero/Factura JV 1 Asignatura de Telemedicina.docx.pdf
+2026-06-08 20:36:13,982 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Financiero/Factura JV 2 Asignatura de Telemedicina.docx
+2026-06-08 20:36:13,982 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Financiero/Factura JV 2 Asignatura de Telemedicina.docx.pdf
+2026-06-08 20:36:13,982 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Financiero/Modelo Factura UCJC.docx
+2026-06-08 20:36:13,982 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Guión para 4 Prácticas de Alumnos en la Asignatura de Telemedicina en Caser.docx
+2026-06-08 20:36:13,983 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Introducción a la Telemedicina y Fundamentos de Redes.pptx
+2026-06-08 20:36:13,983 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Modelo Factura UCJC.doc
+2026-06-08 20:36:13,987 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Sensorización en Salud.pptx
+2026-06-08 20:36:13,987 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Temas /Temario Asignatura Telemedicina.docx
+2026-06-08 20:36:13,988 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Temas /Temario Asignatura Telemedicina.pdf
+2026-06-08 20:36:13,988 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Template Clase de Telemedicina Ingeniería Informática Biomédica.pptx
+2026-06-08 20:36:13,988 INFO skip (already ingested) raw_data/master-training/Formación/Convenio EDGE  HEALTH, S.R.L_.docx
+2026-06-08 20:36:13,989 INFO skip (already ingested) raw_data/master-training/Formación/Convenio EdgeHealth UCJC (firmado 2).pdf
+2026-06-08 20:36:13,991 INFO skip (already ingested) raw_data/master-training/Formación/Convenio EdgeHealth UCJC.pdf
+2026-06-08 20:36:13,991 INFO skip (already ingested) raw_data/master-training/Formación/Documentación Presentada/ANEXO III P&L Curso de Especialista en Informática de la Salud rev JV_REV2.xlsx
+2026-06-08 20:36:13,991 INFO skip (already ingested) raw_data/master-training/Formación/Documentación Presentada/CDA_ANEXO I Propuesta Curso de Especialista en Informática de la Salud_Jennifer .docx
+2026-06-08 20:36:13,991 INFO skip (already ingested) raw_data/master-training/Formación/Documentación Presentada/CDA_ANEXO II_Marketing.docx
+2026-06-08 20:36:13,991 INFO skip (already ingested) raw_data/master-training/Formación/Enviado Dic 2023/ANEXO I Propuesta Curso de Especialista en Informática de la Salud_Jennifer rev JV.docx
+2026-06-08 20:36:13,991 INFO skip (already ingested) raw_data/master-training/Formación/Enviado Dic 2023/ANEXO III P&L Curso de Especialista en Informática de la Salud rev JV.xlsx
+2026-06-08 20:36:13,991 INFO skip (already ingested) raw_data/master-training/Formación/Ficha Profesor_CV Web UCJC (Javier Vinals).doc
+2026-06-08 20:36:13,992 INFO skip (already ingested) raw_data/master-training/Formación/Micromódulo en IA para la Salud/Esquema contenidos titulación web revjv.docx
+2026-06-08 20:36:13,992 INFO skip (already ingested) raw_data/master-training/Formación/Micromódulo en IA para la Salud/Micromódulo de Formación Permanente en Inteligencia Artificial para la salud.pdf
+2026-06-08 20:36:13,992 INFO skip (already ingested) raw_data/master-training/Formación/Micromódulo en IA para la Salud/modelo folleto postgrado revjv.docx
+2026-06-08 20:36:13,993 INFO skip (already ingested) raw_data/master-training/Formación/Programa Curso de Especialista en Informática de la Salud.pdf
+2026-06-08 20:36:14,005 INFO summary  seen=41  ingested=0  skipped=41  total_in_registry=41
+2026-06-08 20:36:14 → python scripts/validate_registry.py
+
+resumen  docs=41  errores=0  avisos=0
+2026-06-08 20:36:14 → python scripts/build_dashboard.py
+dashboard escrito (41 docs, 36 familias).
+2026-06-08 20:36:14 ingestión completada
+2026-06-08 20:36:47 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test/destino/move-test.txt
+2026-06-08 20:36:47 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test/destino
+2026-06-08 20:36:47 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test/origen
+2026-06-08 20:36:47 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test
+2026-06-08 20:36:59 debounce satisfecho (12s sin eventos) — disparo ingestión
+2026-06-08 20:36:59 → python scripts/ingest.py
+2026-06-08 20:36:59,090 INFO ingest start  raw=/Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data  force=False  dry_run=False
+2026-06-08 20:36:59,090 INFO log file: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/documentation/ingestion/run-20260608-203659.log
+2026-06-08 20:36:59,111 INFO skip (already ingested) raw_data/.stfolder/syncthing-folder-99dcd9.txt
+2026-06-08 20:36:59,111 INFO skip (already ingested) raw_data/.stignore
+2026-06-08 20:36:59,111 INFO skip (already ingested) raw_data/becas/santander/program-microcredenciales-2026-i-edicion-IA.xlsx
+2026-06-08 20:36:59,112 INFO skip (already ingested) raw_data/master-training/Formación/ANEXO I Propuesta Curso de Especialista en Informática de la Salud.docx
+2026-06-08 20:36:59,112 INFO skip (already ingested) raw_data/master-training/Formación/ANEXO I Propuesta Nuevo Titulo.docx
+2026-06-08 20:36:59,112 INFO skip (already ingested) raw_data/master-training/Formación/ANEXO III P&L Curso de Especialista en Informática de la Salud.xlsx
+2026-06-08 20:36:59,112 INFO skip (already ingested) raw_data/master-training/Formación/ANEXO III_Gerencia_Def.xlsx
+2026-06-08 20:36:59,112 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/20240928_Contrato_Mercantil_Francisco_Javier_.pdf
+2026-06-08 20:36:59,112 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Calificaciones/Actas/0_conv._2024-25_ene__asignatura_77620_grupo_1_orden_0_.pdf
+2026-06-08 20:36:59,112 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Calificaciones/Actas/signed/0_conv._2024-25_ene__asignatura_77620_grupo_1_orden_0_.pdf
+2026-06-08 20:36:59,113 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Calificaciones/CÓMO CERRAR Y FIRMAR ACTAS.pdf
+2026-06-08 20:36:59,113 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Calificaciones/Examen Asignatura de Telemedicina.docx
+2026-06-08 20:36:59,128 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Calificaciones/Manual del Profesor UCJC curso 24_25.pptx
+2026-06-08 20:36:59,129 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Copy of Clinical Alerts - 2024 - UCJC.pptx
+2026-06-08 20:36:59,129 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Copy of Univerisity Class - Guide - Clinical Alerts - 2024.docx
+2026-06-08 20:36:59,129 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Financiero/Factura JV 1 Asignatura de Telemedicina.docx
+2026-06-08 20:36:59,129 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Financiero/Factura JV 1 Asignatura de Telemedicina.docx.pdf
+2026-06-08 20:36:59,130 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Financiero/Factura JV 2 Asignatura de Telemedicina.docx
+2026-06-08 20:36:59,130 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Financiero/Factura JV 2 Asignatura de Telemedicina.docx.pdf
+2026-06-08 20:36:59,130 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Financiero/Modelo Factura UCJC.docx
+2026-06-08 20:36:59,130 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Guión para 4 Prácticas de Alumnos en la Asignatura de Telemedicina en Caser.docx
+2026-06-08 20:36:59,130 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Introducción a la Telemedicina y Fundamentos de Redes.pptx
+2026-06-08 20:36:59,130 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Modelo Factura UCJC.doc
+2026-06-08 20:36:59,135 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Sensorización en Salud.pptx
+2026-06-08 20:36:59,135 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Temas /Temario Asignatura Telemedicina.docx
+2026-06-08 20:36:59,135 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Temas /Temario Asignatura Telemedicina.pdf
+2026-06-08 20:36:59,136 INFO skip (already ingested) raw_data/master-training/Formación/Asignatura de Telemedicina.- Grado de Ingeniería Informática Biomédica/Template Clase de Telemedicina Ingeniería Informática Biomédica.pptx
+2026-06-08 20:36:59,136 INFO skip (already ingested) raw_data/master-training/Formación/Convenio EDGE  HEALTH, S.R.L_.docx
+2026-06-08 20:36:59,137 INFO skip (already ingested) raw_data/master-training/Formación/Convenio EdgeHealth UCJC (firmado 2).pdf
+2026-06-08 20:36:59,138 INFO skip (already ingested) raw_data/master-training/Formación/Convenio EdgeHealth UCJC.pdf
+2026-06-08 20:36:59,138 INFO skip (already ingested) raw_data/master-training/Formación/Documentación Presentada/ANEXO III P&L Curso de Especialista en Informática de la Salud rev JV_REV2.xlsx
+2026-06-08 20:36:59,138 INFO skip (already ingested) raw_data/master-training/Formación/Documentación Presentada/CDA_ANEXO I Propuesta Curso de Especialista en Informática de la Salud_Jennifer .docx
+2026-06-08 20:36:59,139 INFO skip (already ingested) raw_data/master-training/Formación/Documentación Presentada/CDA_ANEXO II_Marketing.docx
+2026-06-08 20:36:59,139 INFO skip (already ingested) raw_data/master-training/Formación/Enviado Dic 2023/ANEXO I Propuesta Curso de Especialista en Informática de la Salud_Jennifer rev JV.docx
+2026-06-08 20:36:59,139 INFO skip (already ingested) raw_data/master-training/Formación/Enviado Dic 2023/ANEXO III P&L Curso de Especialista en Informática de la Salud rev JV.xlsx
+2026-06-08 20:36:59,139 INFO skip (already ingested) raw_data/master-training/Formación/Ficha Profesor_CV Web UCJC (Javier Vinals).doc
+2026-06-08 20:36:59,139 INFO skip (already ingested) raw_data/master-training/Formación/Micromódulo en IA para la Salud/Esquema contenidos titulación web revjv.docx
+2026-06-08 20:36:59,140 INFO skip (already ingested) raw_data/master-training/Formación/Micromódulo en IA para la Salud/Micromódulo de Formación Permanente en Inteligencia Artificial para la salud.pdf
+2026-06-08 20:36:59,140 INFO skip (already ingested) raw_data/master-training/Formación/Micromódulo en IA para la Salud/modelo folleto postgrado revjv.docx
+2026-06-08 20:36:59,140 INFO skip (already ingested) raw_data/master-training/Formación/Programa Curso de Especialista en Informática de la Salud.pdf
+2026-06-08 20:36:59,140 WARNING archived DOC-0041 — fuente desaparecida: raw_data/_test/destino/move-test.txt
+2026-06-08 20:36:59,140 INFO soft-delete: 1 entradas archivadas por fuente ausente
+2026-06-08 20:36:59,153 INFO summary  seen=40  ingested=0  skipped=40  total_in_registry=41
+2026-06-08 20:36:59 → python scripts/validate_registry.py
+WARN  DOC-0041 source_file no existe: raw_data/_test/destino/move-test.txt
+
+resumen  docs=41  errores=0  avisos=1
+2026-06-08 20:36:59 → python scripts/build_dashboard.py
+dashboard escrito (41 docs, 36 familias).
+2026-06-08 20:36:59 ingestión completada

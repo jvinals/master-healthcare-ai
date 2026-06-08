@@ -1,6 +1,6 @@
 # Familias de versiones
 
-_Última generación: 2026-06-08T19:46:47_
+_Última generación: 2026-06-08T20:40:28_
 
 ## `fam-0-conv-2024-25-ene-asignatura-77620-grupo-1-orden-0`
 
@@ -167,6 +167,12 @@ _Última generación: 2026-06-08T19:46:47_
 | ID | Versión | Estado | Canónico | Actualizado | Title |
 |---|---|---|---|---|---|
 | DOC-0036 | 1.0 | Draft |  | 2026-06-08 | modelo folleto postgrado revjv |
+
+## `fam-move-test`
+
+| ID | Versión | Estado | Canónico | Actualizado | Title |
+|---|---|---|---|---|---|
+| DOC-0041 | 1.0 | Archived |  | 2026-06-08 | move-test |
 
 ## `fam-program-microcredenciales-i-edicion-ia`
 

@@ -43,3 +43,29 @@
 2026-06-08 19:31:56 → python scripts/validate_registry.py
 2026-06-08 19:31:56 → python scripts/build_dashboard.py
 2026-06-08 19:31:56 ingestión completada
+2026-06-08 20:35:17 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test
+2026-06-08 20:35:17 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test/origen
+2026-06-08 20:35:17 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test/destino
+2026-06-08 20:35:17 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test/origen/move-test.txt
+2026-06-08 20:35:27 debounce satisfecho (10s sin eventos) — disparo ingestión
+2026-06-08 20:35:27   …todavía hay ficheros modificados en <20s, espero
+2026-06-08 20:35:48 → python scripts/ingest.py
+2026-06-08 20:35:48 → python scripts/validate_registry.py
+2026-06-08 20:35:48 → python scripts/build_dashboard.py
+2026-06-08 20:35:48 ingestión completada
+2026-06-08 20:36:02 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test/origen/move-test.txt
+2026-06-08 20:36:02 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test/destino/move-test.txt
+2026-06-08 20:36:13 debounce satisfecho (11s sin eventos) — disparo ingestión
+2026-06-08 20:36:13 → python scripts/ingest.py
+2026-06-08 20:36:14 → python scripts/validate_registry.py
+2026-06-08 20:36:14 → python scripts/build_dashboard.py
+2026-06-08 20:36:14 ingestión completada
+2026-06-08 20:36:47 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test/destino/move-test.txt
+2026-06-08 20:36:47 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test/destino
+2026-06-08 20:36:47 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test/origen
+2026-06-08 20:36:47 evento: /Users/aiserver/hermes-b-data/profiles/master-healthcare-ai/raw_data/_test
+2026-06-08 20:36:59 debounce satisfecho (12s sin eventos) — disparo ingestión
+2026-06-08 20:36:59 → python scripts/ingest.py
+2026-06-08 20:36:59 → python scripts/validate_registry.py
+2026-06-08 20:36:59 → python scripts/build_dashboard.py
+2026-06-08 20:36:59 ingestión completada

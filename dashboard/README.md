@@ -1,14 +1,14 @@
 # Dashboard
 
-_Última generación: 2026-06-08T19:46:47_
+_Última generación: 2026-06-08T20:40:28_
 
 ## Resumen
 
 | Métrica | Valor |
 |---|---|
-| Documentos registrados | 40 |
+| Documentos registrados | 41 |
 | Documentos canónicos | 1 |
-| Familias de versiones | 35 |
+| Familias de versiones | 36 |
 | Familias con varias versiones | 4 |
 
 ## Por estado
@@ -17,6 +17,7 @@ _Última generación: 2026-06-08T19:46:47_
 |---|---|
 | Draft | 39 |
 | Published | 1 |
+| Archived | 1 |
 
 ## Por categoría
 
@@ -26,8 +27,8 @@ _Última generación: 2026-06-08T19:46:47_
 | curso-especialista-informatica-salud | 7 |
 | propuestas-academicas | 3 |
 | administracion-convenios | 3 |
+| otros | 3 |
 | micromodulo-ia-salud | 2 |
-| otros | 2 |
 | faculty | 1 |
 | marketing | 1 |
 | becas | 1 |
@@ -36,7 +37,7 @@ _Última generación: 2026-06-08T19:46:47_
 
 | Idioma | Documentos |
 |---|---|
-| es | 40 |
+| es | 41 |
 
 ## Familias con múltiples versiones
 
