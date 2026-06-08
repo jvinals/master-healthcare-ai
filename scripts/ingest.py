@@ -452,6 +452,24 @@ def process_file(
         None,
     )
     if existing and not force:
+        old_src = existing.get("source_file", "")
+        if old_src and old_src != rel:
+            # Move-detection: el contenido es el mismo (hash idéntico) pero
+            # la ruta cambió. Actualizamos sólo metadatos ligados a la
+            # ruta — NO regeneramos el markdown ni cambiamos el ID.
+            existing["source_file"] = rel
+            existing["category"] = infer_category(rel, src.name)
+            merged_tags = set(existing.get("tags") or []) | set(infer_tags(rel, src.name))
+            existing["tags"] = sorted(merged_tags)
+            existing["updated"] = dt.date.today().isoformat()
+            # Si la entrada estaba archivada por desaparición previa, "revivirla".
+            if existing.get("status") == "Archived" and existing.get("archived_reason") == "source-file-missing":
+                existing["status"] = "Draft"
+                existing.pop("archived_reason", None)
+                existing.pop("archived_at", None)
+                logging.info("revived %s — fichero reapareció en %s", existing["id"], rel)
+            logging.info("moved %s  %s  →  %s", existing["id"], old_src, rel)
+            return None
         logging.info("skip (already ingested) %s", rel)
         return None
 
@@ -592,6 +610,36 @@ def main() -> int:
 
     # Drop any leftover reservations (defensive)
     registry["documents"] = [d for d in registry["documents"] if not d.get("_reserved")]
+
+    # ------------------------------------------------------------------ #
+    # Soft-delete: localiza entradas cuyo source_file ya no existe en disco
+    # y márcalas como Archived. NO se borran nunca.
+    # ------------------------------------------------------------------ #
+    n_archived = n_revived = 0
+    for d in registry["documents"]:
+        src_field = d.get("source_file", "") or ""
+        if not src_field:
+            continue
+        # Resuelve la ruta: absoluta tal cual, relativa contra el perfil.
+        candidate = Path(src_field) if Path(src_field).is_absolute() else PROFILE_ROOT / src_field
+        exists = candidate.exists()
+        status = d.get("status", "Draft")
+        archived_for_missing = (
+            status == "Archived"
+            and d.get("archived_reason") == "source-file-missing"
+        )
+        if not exists and not archived_for_missing:
+            d["status"] = "Archived"
+            d["archived_reason"] = "source-file-missing"
+            d["archived_at"] = dt.date.today().isoformat()
+            d["updated"] = dt.date.today().isoformat()
+            n_archived += 1
+            logging.warning("archived %s — fuente desaparecida: %s", d.get("id"), src_field)
+        # NB: la "resurrección" cuando un fichero archivado vuelve a aparecer
+        # se gestiona en la rama de move-detection de process_file().
+
+    if n_archived:
+        logging.info("soft-delete: %d entradas archivadas por fuente ausente", n_archived)
 
     if not args.dry_run:
         save_registry(registry)
